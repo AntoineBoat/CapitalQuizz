@@ -1,0 +1,31 @@
+azePays sélectionné: Allemagne
+Capitales correctes: berlin, berlin
+Pays sélectionné: Belgique
+Capitales correctes: bruxelles, brussels
+Formulaire soumis
+Entrée utilisateur: berlin
+Message de réponse: Votre réponse berlin est Incorrecte (42.9 %).<br>La capitale est bruxelles ou brussels.
+Pays sélectionné: Pays-Bas
+Capitales correctes: amsterdam, amsterdam
+Formulaire soumis
+Entrée utilisateur: bruxels
+Message de réponse: Votre réponse bruxels est Incorrecte (12.5 %).<br>La capitale est amsterdam ou amsterdam.
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis
+Entrée utilisateur: amsterdam
+Message de réponse: Votre réponse amsterdam est Incorrecte (30.8 %).<br>La capitale est rome ou rome.
+Pays sélectionné: Finlande
+Capitales correctes: helsinki, helsinki
+Pays sélectionné: Allemagne
+Capitales correctes: berlin, berlin
+Formulaire soumis
+Entrée utilisateur: helsinki
+Message de réponse: Votre réponse helsinki est Incorrecte (57.1 %).<br>La capitale est berlin ou berlin.
+Pays sélectionné: Danemark
+Capitales correctes: copenhague, copenhagen
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis
+Entrée utilisateur: amstersam
+Message de réponse: Votre réponse amstersam est Incorrecte (26.7 %).<br>La capitale est athènes ou athens.

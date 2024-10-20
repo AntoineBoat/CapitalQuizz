@@ -1,41 +1,42 @@
 <?php
-// Liste associative de pays et leurs capitales
-$countries = [
-    "France" => ["paris", "paris"],
-    "Allemagne" => ["berlin", "berlin"],
-    "Espagne" => ["madrid", "madrid"],
-    "Italie" => ["rome", "rome"],
-    "Portugal" => ["lisbonne", "lisbon"],
-    "Belgique" => ["bruxelles", "brussels"],
-    "Suisse" => ["berne", "bern"],
-    "Royaume-Uni" => ["londres", "london"],
-    "Pays-Bas" => ["amsterdam", "amsterdam"],
-    "Autriche" => ["vienne", "vienna"],
-    "Suède" => ["stockholm", "stockholm"],
-    "Norvège" => ["oslo", "oslo"],
-    "Danemark" => ["copenhague", "copenhagen"],
-    "Finlande" => ["helsinki", "helsinki"],
-    "Irlande" => ["dublin", "dublin"],
-    "Pologne" => ["varsovie", "warsaw"],
-    "Grèce" => ["athènes", "athens"]
-];
 
-// Sélectionner un pays aléatoirement
-$country = array_rand($countries);
+function getRandomCountry($excludedCountries = []) {
+    $countries = [
+        "France" => ["paris", "paris"],
+        "Allemagne" => ["berlin", "berlin"],
+        "Espagne" => ["madrid", "madrid"],
+        "Italie" => ["rome", "rome"],
+        "Portugal" => ["lisbonne", "lisbon"],
+        "Belgique" => ["bruxelles", "brussels"],
+        "Suisse" => ["berne", "bern"],
+        "Royaume-Uni" => ["londres", "london"],
+        "Pays-Bas" => ["amsterdam", "amsterdam"],
+        "Autriche" => ["vienne", "vienna"],
+        "Suède" => ["stockholm", "stockholm"],
+        "Norvège" => ["oslo", "oslo"],
+        "Danemark" => ["copenhague", "copenhagen"],
+        "Finlande" => ["helsinki", "helsinki"],
+        "Irlande" => ["dublin", "dublin"],
+        "Pologne" => ["varsovie", "warsaw"],
+        "Grèce" => ["athènes", "athens"]
+    ];
+
+    // Remove excluded countries
+    if (!empty($excludedCountries)) {
+        foreach ($excludedCountries as $excludedCountry) {
+            unset($countries[$excludedCountry]);
+        }
+    }   
+    // Select a random country from the remaining list
+    $country = array_rand($countries);
+    return [$country => $countries[$country]];
+}
 
 
-
-//    $correctCapital = in_array($userInput, $countries[$country]);
-//    header("Location: index.php?country=$country&correct=$correctCapital");
-
-
-
-// Vérifier si le formulaire a été soumis
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $userInput = trim($_POST["capital"]);
+// Vérifier la réponse de l'utilisateur
+function checkCapital($userInput, $correctCapitals, $desiredPercent = 80) {
+    $userInput = trim($userInput);
     $userInput = strtolower($userInput);
-    $selectedCountry = $_POST["country"];
-    $correctCapitals = $countries[$selectedCountry]; // Récupérer les deux versions des capitales
 
     // Initialiser la variable de pourcentage de similarité
     $maxPercent = 0;
@@ -49,13 +50,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
     }
 
-    // Vérifier si la similarité maximale est supérieure à 80%
-    if ($maxPercent > 80) {
+    // Vérifier si la similarité maximale est supérieure au pourcentage souhaité
+    if ($maxPercent > $desiredPercent) {
         $message = "Correct !";
     } else {
-        $message = "Votre réponse $userInput est Incorrecte ($maxPercent %).<br>La capitale de $selectedCountry est " . implode(" ou ", $correctCapitals) . ".";
+        $message = "Votre réponse $userInput est Incorrecte ($maxPercent %).<br>La capitale est " . implode(" ou ", $correctCapitals) . ".";
     }
-    exit();
+    return $message;
 }
 
 ?>
