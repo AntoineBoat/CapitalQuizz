@@ -29,3 +29,138 @@ Capitales correctes: athènes, athens
 Formulaire soumis
 Entrée utilisateur: amstersam
 Message de réponse: Votre réponse amstersam est Incorrecte (26.7 %).<br>La capitale est athènes ou athens.
+Pays sélectionné: Irlande
+Capitales correctes: dublin, dublin
+Pays sélectionné: Danemark
+Capitales correctes: copenhague, copenhagen
+Formulaire soumis pour le pays Danemark
+Entrée utilisateur: dublin
+Message de réponse: Votre réponse dublin est Incorrecte (12.5 %).<br>La capitale est copenhague ou copenhagen.
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Pays sélectionné: Finlande
+Capitales correctes: helsinki, helsinki
+Formulaire soumis pour le pays Finlande
+Entrée utilisateur: copenhague
+Message de réponse: Votre réponse copenhague est Incorrecte (22.2 %).<br>La capitale est helsinki ou helsinki.
+Pays sélectionné: Norvège
+Capitales correctes: oslo, oslo
+Formulaire soumis pour le pays Norvège
+Entrée utilisateur: copenhague
+Message de réponse: Votre réponse copenhague est Incorrecte (14.3 %).<br>La capitale est oslo ou oslo.
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: paris
+Message de réponse: Correct !
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: paris
+Message de réponse: Correct !
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: tre
+Message de réponse: Votre réponse tre est Incorrecte (25 %).<br>La capitale est paris ou paris.
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: azeze
+Message de réponse: Votre réponse azeze est Incorrecte (18.2 %).<br>La capitale est madrid ou madrid.
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis pour le pays Italie
+Entrée utilisateur: madrid
+Message de réponse: Votre réponse madrid est Incorrecte (20 %).<br>La capitale est rome ou rome.
+Pays sélectionné: Belgique
+Capitales correctes: bruxelles, brussels
+Formulaire soumis pour le pays Belgique
+Entrée utilisateur: bruxelle
+Message de réponse: Correct !
+Pays sélectionné: Portugal
+Capitales correctes: lisbonne, lisbon
+Formulaire soumis pour le pays Portugal
+Entrée utilisateur: lisbon
+Message de réponse: Correct !
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: madridras
+Message de réponse: Votre réponse madridras est Incorrecte (80 %).<br>La capitale est madrid ou madrid.
+Pays sélectionné: Suisse
+Capitales correctes: berne, bern
+Formulaire soumis pour le pays Suisse
+Entrée utilisateur: berne
+Message de réponse: Correct !
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: paris
+Message de réponse: Correct !
+Pays sélectionné: Suède
+Capitales correctes: stockholm, stockholm
+Formulaire soumis pour le pays Suède
+Entrée utilisateur: stockholm
+Message de réponse: Correct !
+Pays sélectionné: Allemagne
+Capitales correctes: berlin, berlin
+Formulaire soumis pour le pays Allemagne
+Entrée utilisateur: berlin
+Message de réponse: Correct !
+Pays sélectionné: Autriche
+Capitales correctes: vienne, vienna
+Formulaire soumis pour le pays Autriche
+Entrée utilisateur: vienne
+Message de réponse: Correct !
+Pays sélectionné: Danemark
+Capitales correctes: copenhague, copenhagen
+Formulaire soumis pour le pays Danemark
+Entrée utilisateur: copenhague
+Message de réponse: Correct !
+Pays sélectionné: Pologne
+Capitales correctes: varsovie, warsaw
+Formulaire soumis pour le pays Pologne
+Entrée utilisateur: warsow
+Message de réponse: Correct !
+Pays sélectionné: Royaume-Uni
+Capitales correctes: londres, london
+Formulaire soumis pour le pays Royaume-Uni
+Entrée utilisateur: londres
+Message de réponse: Correct !
+Pays sélectionné: Pays-Bas
+Capitales correctes: amsterdam, amsterdam
+Formulaire soumis pour le pays Pays-Bas
+Entrée utilisateur: amsterdam
+Message de réponse: Correct !
+Pays sélectionné: Irlande
+Capitales correctes: dublin, dublin
+Formulaire soumis pour le pays Irlande
+Entrée utilisateur: dublin
+Message de réponse: Correct !
+Pays sélectionné: Norvège
+Capitales correctes: oslo, oslo
+Formulaire soumis pour le pays Norvège
+Entrée utilisateur: oslo
+Message de réponse: Correct !
+Pays sélectionné: Finlande
+Capitales correctes: helsinki, helsinki
+Formulaire soumis pour le pays Finlande
+Entrée utilisateur: helsinkin
+Message de réponse: Correct !
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis pour le pays Italie
+Entrée utilisateur: rome
+Message de réponse: Correct !
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: athen
+Message de réponse: Correct !
+Pays sélectionné: 
+Capitales correctes: 

@@ -26,7 +26,13 @@ function getRandomCountry($excludedCountries = []) {
         foreach ($excludedCountries as $excludedCountry) {
             unset($countries[$excludedCountry]);
         }
-    }   
+    }
+
+    // Check if all countries are excluded
+    if (empty($countries)) {
+        return null;
+    }
+
     // Select a random country from the remaining list
     $country = array_rand($countries);
     return [$country => $countries[$country]];
