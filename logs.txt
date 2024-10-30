@@ -861,3 +861,105 @@ Formulaire soumis pour le pays Belgique
 [2024-10-30 00:25:52] Message de réponse: Correct !
 [2024-10-30 00:25:52] Capital correctement trouvé, pays exclu: France
 [2024-10-30 00:25:52] Prochain pays: , capitales attendus : 
+[2024-10-30 00:30:39] Prochain pays: Espagne, capitales attendus : madrid, madrid
+[2024-10-30 00:30:43] ********** Nouvel appel *******
+[2024-10-30 00:30:43] Formulaire soumis pour le pays Espagne
+[2024-10-30 00:30:43] Entrée utilisateur: madrid
+[2024-10-30 00:30:43] Message de réponse: Correct !
+[2024-10-30 00:30:43] Capital correctement trouvé, pays exclu: Espagne
+[2024-10-30 00:30:43] Prochain pays: Belgique, capitales attendus : bruxelles, brussels
+[2024-10-30 00:30:47] ********** Nouvel appel *******
+[2024-10-30 00:30:47] Formulaire soumis pour le pays Belgique
+[2024-10-30 00:30:47] Entrée utilisateur: bruxels
+[2024-10-30 00:30:47] Message de réponse: Correct !
+[2024-10-30 00:30:47] Capital correctement trouvé, pays exclu: Belgique
+[2024-10-30 00:30:47] Prochain pays: Pays-Bas, capitales attendus : amsterdam, amsterdam
+[2024-10-30 00:30:49] ********** Nouvel appel *******
+[2024-10-30 00:30:49] Formulaire soumis pour le pays Pays-Bas
+[2024-10-30 00:30:49] Entrée utilisateur: amsterdam
+[2024-10-30 00:30:49] Message de réponse: Correct !
+[2024-10-30 00:30:49] Capital correctement trouvé, pays exclu: Pays-Bas
+[2024-10-30 00:30:49] Prochain pays: Italie, capitales attendus : rome, rome
+[2024-10-30 00:30:51] ********** Nouvel appel *******
+[2024-10-30 00:30:51] Formulaire soumis pour le pays Italie
+[2024-10-30 00:30:51] Entrée utilisateur: rome
+[2024-10-30 00:30:51] Message de réponse: Correct !
+[2024-10-30 00:30:51] Capital correctement trouvé, pays exclu: Italie
+[2024-10-30 00:30:51] Prochain pays: Portugal, capitales attendus : lisbonne, lisbon
+[2024-10-30 00:30:59] ********** Nouvel appel *******
+[2024-10-30 00:30:59] Formulaire soumis pour le pays Portugal
+[2024-10-30 00:30:59] Entrée utilisateur: lisbon
+[2024-10-30 00:30:59] Message de réponse: Correct !
+[2024-10-30 00:30:59] Capital correctement trouvé, pays exclu: Portugal
+[2024-10-30 00:30:59] Prochain pays: Irlande, capitales attendus : dublin, dublin
+[2024-10-30 00:31:03] ********** Nouvel appel *******
+[2024-10-30 00:31:03] Formulaire soumis pour le pays Irlande
+[2024-10-30 00:31:03] Entrée utilisateur: dublin
+[2024-10-30 00:31:03] Message de réponse: Correct !
+[2024-10-30 00:31:03] Capital correctement trouvé, pays exclu: Irlande
+[2024-10-30 00:31:03] Prochain pays: Grèce, capitales attendus : athènes, athens
+[2024-10-30 00:31:05] ********** Nouvel appel *******
+[2024-10-30 00:31:05] Formulaire soumis pour le pays Grèce
+[2024-10-30 00:31:05] Entrée utilisateur: athens
+[2024-10-30 00:31:05] Message de réponse: Correct !
+[2024-10-30 00:31:05] Capital correctement trouvé, pays exclu: Grèce
+[2024-10-30 00:31:05] Prochain pays: Allemagne, capitales attendus : berlin, berlin
+[2024-10-30 00:31:10] ********** Nouvel appel *******
+[2024-10-30 00:31:10] Formulaire soumis pour le pays Allemagne
+[2024-10-30 00:31:10] Entrée utilisateur: berlin
+[2024-10-30 00:31:10] Message de réponse: Correct !
+[2024-10-30 00:31:10] Capital correctement trouvé, pays exclu: Allemagne
+[2024-10-30 00:31:10] Prochain pays: Norvège, capitales attendus : oslo, oslo
+[2024-10-30 00:31:11] ********** Nouvel appel *******
+[2024-10-30 00:31:11] Formulaire soumis pour le pays Norvège
+[2024-10-30 00:31:11] Entrée utilisateur: oslo
+[2024-10-30 00:31:11] Message de réponse: Correct !
+[2024-10-30 00:31:11] Capital correctement trouvé, pays exclu: Norvège
+[2024-10-30 00:31:11] Prochain pays: Autriche, capitales attendus : vienne, vienna
+[2024-10-30 00:31:15] ********** Nouvel appel *******
+[2024-10-30 00:31:15] Formulaire soumis pour le pays Autriche
+[2024-10-30 00:31:15] Entrée utilisateur: oslo
+[2024-10-30 00:31:15] Message de réponse: Votre réponse oslo est Incorrecte (0 %).<br>La capitale est vienne ou vienna.
+[2024-10-30 00:31:15] Capital correctement trouvé, pays exclu: Autriche
+[2024-10-30 00:31:15] Prochain pays: Suède, capitales attendus : stockholm, stockholm
+[2024-10-30 00:31:18] ********** Nouvel appel *******
+[2024-10-30 00:31:18] Formulaire soumis pour le pays Suède
+[2024-10-30 00:31:18] Entrée utilisateur: stockholm
+[2024-10-30 00:31:18] Message de réponse: Correct !
+[2024-10-30 00:31:18] Capital correctement trouvé, pays exclu: Suède
+[2024-10-30 00:31:18] Prochain pays: Suisse, capitales attendus : berne, bern
+[2024-10-30 00:31:20] ********** Nouvel appel *******
+[2024-10-30 00:31:20] Formulaire soumis pour le pays Suisse
+[2024-10-30 00:31:20] Entrée utilisateur: berne
+[2024-10-30 00:31:20] Message de réponse: Correct !
+[2024-10-30 00:31:20] Capital correctement trouvé, pays exclu: Suisse
+[2024-10-30 00:31:20] Prochain pays: Pologne, capitales attendus : varsovie, warsaw
+[2024-10-30 00:31:24] ********** Nouvel appel *******
+[2024-10-30 00:31:24] Formulaire soumis pour le pays Pologne
+[2024-10-30 00:31:24] Entrée utilisateur: warsow
+[2024-10-30 00:31:24] Message de réponse: Correct !
+[2024-10-30 00:31:24] Capital correctement trouvé, pays exclu: Pologne
+[2024-10-30 00:31:24] Prochain pays: Royaume-Uni, capitales attendus : londres, london
+[2024-10-30 00:31:26] ********** Nouvel appel *******
+[2024-10-30 00:31:26] Formulaire soumis pour le pays Royaume-Uni
+[2024-10-30 00:31:26] Entrée utilisateur: londres
+[2024-10-30 00:31:26] Message de réponse: Correct !
+[2024-10-30 00:31:26] Capital correctement trouvé, pays exclu: Royaume-Uni
+[2024-10-30 00:31:26] Prochain pays: Danemark, capitales attendus : copenhague, copenhagen
+[2024-10-30 00:31:28] ********** Nouvel appel *******
+[2024-10-30 00:31:28] Formulaire soumis pour le pays Danemark
+[2024-10-30 00:31:28] Entrée utilisateur: copenhague
+[2024-10-30 00:31:28] Message de réponse: Correct !
+[2024-10-30 00:31:28] Capital correctement trouvé, pays exclu: Danemark
+[2024-10-30 00:31:28] Prochain pays: France, capitales attendus : paris, paris
+[2024-10-30 00:31:29] ********** Nouvel appel *******
+[2024-10-30 00:31:29] Formulaire soumis pour le pays France
+[2024-10-30 00:31:29] Entrée utilisateur: paris
+[2024-10-30 00:31:29] Message de réponse: Correct !
+[2024-10-30 00:31:29] Capital correctement trouvé, pays exclu: France
+[2024-10-30 00:31:29] Prochain pays: Finlande, capitales attendus : helsinki, helsinki
+[2024-10-30 00:31:34] ********** Nouvel appel *******
+[2024-10-30 00:31:34] Formulaire soumis pour le pays Finlande
+[2024-10-30 00:31:34] Entrée utilisateur: helsinki
+[2024-10-30 00:31:34] Message de réponse: Correct !
+[2024-10-30 00:31:34] Capital correctement trouvé, pays exclu: Finlande
