@@ -60,7 +60,7 @@ function checkCapital($userInput, $correctCapitals, $desiredPercent = 80) {
     if ($maxPercent > $desiredPercent) {
         $message = "Correct !";
     } else {
-        $message = "Votre réponse $userInput est Incorrecte ($maxPercent %).<br>La capitale est " . implode(" ou ", $correctCapitals) . ".";
+        $message = "$userInput est une mauvaise réponse ($maxPercent % uniquement de la bonne réponse).<br>La bonne réponse est " . implode(" ou ", $correctCapitals) . ".";
     }
     return $message;
 }
