@@ -42,6 +42,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 // Sélectionner un nouveau pays
 $countryWithCapital = getRandomCountry($_SESSION['excludedCountries']);
+
+// Vérifier que getRandomCountry() a retourné un tableau valide
+if (!$countryWithCapital) {
+    // Réinitialiser la liste des pays exclus si tous les pays ont été utilisés
+    $_SESSION['excludedCountries'] = [];
+    $message = "Félicitations ! Vous avez trouvé toutes les capitales.";
+    $country = null;
+} else {
+    $country = array_keys($countryWithCapital)[0];
+    $correctCapitals = $countryWithCapital[$country];
+    // Stocker les capitales correctes dans la session
+    $_SESSION['correctCapitals'] = $correctCapitals;
+    // Log des valeurs initiales
+    logMessage("Prochain pays: $country, capitales attendus : " . implode(", ", $correctCapitals), $logFile);
+}
+
 $country = array_keys($countryWithCapital)[0];
 $correctCapitals = $countryWithCapital[$country];
 
@@ -49,7 +65,7 @@ $correctCapitals = $countryWithCapital[$country];
 $_SESSION['correctCapitals'] = $correctCapitals;
 
 // Log des valeurs initiales
-logMessage("Prochain pays: $country, capitales attendus : . implode(", ", $correctCapitals) . ", $logFile);
+logMessage("Prochain pays: $country, capitales attendus : " . implode(", ", $correctCapitals), $logFile);
 ?>
 <!DOCTYPE html>
 <html lang="fr">
