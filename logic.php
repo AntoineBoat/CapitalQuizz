@@ -30,7 +30,7 @@ function getRandomCountry($excludedCountries = []) {
 
     // Check if all countries are excluded
     if (empty($countries)) {
-        return [null, 0];
+        return null;
     }
 
     // Select a random country from the remaining list

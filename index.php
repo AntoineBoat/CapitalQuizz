@@ -47,6 +47,7 @@ $countryWithCapital = getRandomCountry($_SESSION['excludedCountries']);
 if (!$countryWithCapital) {
     // Réinitialiser la liste des pays exclus si tous les pays ont été utilisés
     $_SESSION['excludedCountries'] = [];
+    $countriesLeft = 0;
     $message = "Félicitations ! Vous avez trouvé toutes les capitales.";
     logMessage("Jeu terminé. Toutes les capitales ont été trouvées.", $logFile);
     $country = null;
@@ -57,8 +58,10 @@ if (!$countryWithCapital) {
     $correctCapitals = $countryWithCapital[$country];// Capitales correctes
     // Stocker les capitales correctes dans la session
     $_SESSION['correctCapitals'] = $correctCapitals;
-    // Log des valeurs initiales
-    logMessage("Prochain pays: $country, capitales attendus : " . implode(", ", $correctCapitals), $logFile);
+    if (!empty($country)) {
+        // Log des valeurs initiales 
+        logMessage("Prochain pays: $country, capitales attendus : " . implode(", ", $correctCapitals), $logFile);
+    }
 }
 
 ?>
