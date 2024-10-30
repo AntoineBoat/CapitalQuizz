@@ -963,3 +963,4 @@ Formulaire soumis pour le pays Belgique
 [2024-10-30 00:31:34] Entrée utilisateur: helsinki
 [2024-10-30 00:31:34] Message de réponse: Correct !
 [2024-10-30 00:31:34] Capital correctement trouvé, pays exclu: Finlande
+[2024-10-30 00:35:01] Prochain pays: France, capitales attendus : paris, paris
