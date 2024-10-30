@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         logMessage("Capital correctement trouvé, pays exclu: $country", $logFile);
     } else {
         // Log que la réponse était fausse et que le pays reste dans la liste
-        logMessage("Réponse incorrecte, le pays reste dans la liste: $country", $logFile);
+        logMessage("Mauvaise réponse, le pays reste dans la liste: $country", $logFile);
     }
 }
 
@@ -83,6 +83,18 @@ if (!$countryWithCapital) {
         <?php
         if (isset($message)) {
             echo "<p>$message</p>";
+        }
+        ?>
+    </div>
+    <div class="excluded-countries">
+        <?php
+        if (!empty($_SESSION['excludedCountries'])) {
+            echo "<h2>Pays déjà trouvés :</h2>";
+            echo "<ul>";
+            foreach ($_SESSION['excludedCountries'] as $excludedCountry) {
+                echo "<li>$excludedCountry</li>";
+            }
+            echo "</ul>";
         }
         ?>
     </div>
