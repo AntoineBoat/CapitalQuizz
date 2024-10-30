@@ -1068,3 +1068,57 @@ Formulaire soumis pour le pays Belgique
 [2024-10-30 00:43:28] Message de réponse: Correct !
 [2024-10-30 00:43:28] Capital correctement trouvé, pays exclu: Grèce
 [2024-10-30 00:43:28] Jeu terminé. Toutes les capitales ont été trouvées.
+[2024-10-30 01:16:19] Prochain pays: Autriche, capitales attendus : vienne, vienna
+[2024-10-30 01:16:26] ********** Nouvel appel *******
+[2024-10-30 01:16:26] Formulaire soumis pour le pays Autriche
+[2024-10-30 01:16:26] Entrée utilisateur: vienne
+[2024-10-30 01:16:26] Message de réponse: Correct !
+[2024-10-30 01:16:26] Capital correctement trouvé, pays exclu: Autriche
+[2024-10-30 01:16:26] Prochain pays: Norvège, capitales attendus : oslo, oslo
+[2024-10-30 01:16:32] Prochain pays: Grèce, capitales attendus : athènes, athens
+[2024-10-30 01:16:36] ********** Nouvel appel *******
+[2024-10-30 01:16:36] Formulaire soumis pour le pays Grèce
+[2024-10-30 01:16:36] Entrée utilisateur: zeze
+[2024-10-30 01:16:36] Message de réponse: zeze est une mauvaise réponse (20 % uniquement de la bonne réponse).<br>La bonne réponse est athènes ou athens.
+[2024-10-30 01:16:36] Mauvaise réponse, le pays reste dans la liste: Grèce
+[2024-10-30 01:16:36] Prochain pays: Belgique, capitales attendus : bruxelles, brussels
+[2024-10-30 01:16:44] ********** Nouvel appel *******
+[2024-10-30 01:16:44] Formulaire soumis pour le pays Belgique
+[2024-10-30 01:16:44] Entrée utilisateur: bruxels
+[2024-10-30 01:16:44] Message de réponse: Correct !
+[2024-10-30 01:16:44] Capital correctement trouvé, pays exclu: Belgique
+[2024-10-30 01:16:44] Prochain pays: Norvège, capitales attendus : oslo, oslo
+[2024-10-30 01:23:11] Prochain pays: Portugal, capitales attendus : lisbonne, lisbon
+[2024-10-30 01:23:18] ********** Nouvel appel *******
+[2024-10-30 01:23:18] Formulaire soumis pour le pays Portugal
+[2024-10-30 01:23:18] Entrée utilisateur: lisbon
+[2024-10-30 01:23:18] Message de réponse: Correct !
+[2024-10-30 01:23:18] Capital correctement trouvé, pays exclu: Portugal
+[2024-10-30 01:23:18] Prochain pays: Italie, capitales attendus : rome, rome
+[2024-10-30 01:25:02] ********** Nouvel appel *******
+[2024-10-30 01:25:02] Formulaire soumis pour le pays Italie
+[2024-10-30 01:25:02] Entrée utilisateur: rome
+[2024-10-30 01:25:02] Message de réponse: Correct !
+[2024-10-30 01:25:02] Capital correctement trouvé, pays exclu: Italie
+[2024-10-30 01:25:02] Prochain pays: Finlande, capitales attendus : helsinki, helsinki
+[2024-10-30 01:33:32] Prochain pays: Suisse, capitales attendus : berne, bern
+[2024-10-30 01:33:35] ********** Nouvel appel *******
+[2024-10-30 01:33:35] Formulaire soumis pour le pays Suisse
+[2024-10-30 01:33:35] Entrée utilisateur: berne
+[2024-10-30 01:33:35] Message de réponse: Correct !
+[2024-10-30 01:33:35] Capital correctement trouvé, pays exclu: Suisse
+[2024-10-30 01:33:35] Prochain pays: Irlande, capitales attendus : dublin, dublin
+[2024-10-30 01:37:36] Prochain pays: Suède, capitales attendus : stockholm, stockholm
+[2024-10-30 01:39:41] Prochain pays: France, capitales attendus : paris, paris
+[2024-10-30 01:39:45] ********** Nouvel appel *******
+[2024-10-30 01:39:45] Formulaire soumis pour le pays France
+[2024-10-30 01:39:45] Entrée utilisateur: allo
+[2024-10-30 01:39:45] Message de réponse: allo est une mauvaise réponse (22.2 % uniquement de la bonne réponse).<br>La bonne réponse est paris ou paris.
+[2024-10-30 01:39:45] Mauvaise réponse, le pays reste dans la liste: France
+[2024-10-30 01:39:45] Prochain pays: Royaume-Uni, capitales attendus : londres, london
+[2024-10-30 01:39:49] ********** Nouvel appel *******
+[2024-10-30 01:39:49] Formulaire soumis pour le pays Royaume-Uni
+[2024-10-30 01:39:49] Entrée utilisateur: londres
+[2024-10-30 01:39:49] Message de réponse: Correct !
+[2024-10-30 01:39:49] Capital correctement trouvé, pays exclu: Royaume-Uni
+[2024-10-30 01:39:49] Prochain pays: Danemark, capitales attendus : copenhague, copenhagen

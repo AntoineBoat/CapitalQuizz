@@ -1,6 +1,6 @@
 <?php
-
 function getRandomCountry($excludedCountries = []) {
+    // Liste des pays et de leurs capitales
     $countries = [
         "France" => ["paris", "paris"],
         "Allemagne" => ["berlin", "berlin"],
@@ -30,12 +30,13 @@ function getRandomCountry($excludedCountries = []) {
 
     // Check if all countries are excluded
     if (empty($countries)) {
-        return null;
+        return [null, 0];
     }
 
     // Select a random country from the remaining list
     $country = array_rand($countries);
-    return [$country => $countries[$country]];
+    // Return the selected country with the capitals and the number of countries left
+    return [$country => $countries[$country], "left" => count($countries)];
 }
 
 

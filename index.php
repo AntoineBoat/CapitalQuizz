@@ -51,13 +51,16 @@ if (!$countryWithCapital) {
     logMessage("Jeu terminé. Toutes les capitales ont été trouvées.", $logFile);
     $country = null;
 } else {
-    $country = array_keys($countryWithCapital)[0];
-    $correctCapitals = $countryWithCapital[$country];
+    // Extraire les valeurs du tableau retourné
+    $country = array_keys($countryWithCapital)[0];// Pays sélectionné
+    $countriesLeft = $countryWithCapital["left"];// Nombre de pays restants
+    $correctCapitals = $countryWithCapital[$country];// Capitales correctes
     // Stocker les capitales correctes dans la session
     $_SESSION['correctCapitals'] = $correctCapitals;
     // Log des valeurs initiales
     logMessage("Prochain pays: $country, capitales attendus : " . implode(", ", $correctCapitals), $logFile);
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -89,6 +92,7 @@ if (!$countryWithCapital) {
     <div class="excluded-countries">
         <?php
         if (!empty($_SESSION['excludedCountries'])) {
+            echo "<p>Nombre de pays restant à trouver : $countriesLeft</p>";
             echo "<h2>Pays déjà trouvés :</h2>";
             echo "<ul>";
             foreach ($_SESSION['excludedCountries'] as $excludedCountry) {

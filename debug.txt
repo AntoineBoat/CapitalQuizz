@@ -1,0 +1,103 @@
+[2024-10-30 01:23:11] Array
+(
+    [Portugal] => Array
+        (
+            [0] => lisbonne
+            [1] => lisbon
+        )
+
+)
+
+[2024-10-30 01:23:18] Array
+(
+    [Italie] => Array
+        (
+            [0] => rome
+            [1] => rome
+        )
+
+)
+
+[2024-10-30 01:25:02] Array
+(
+    [Finlande] => Array
+        (
+            [0] => helsinki
+            [1] => helsinki
+        )
+
+    [0] => 13
+)
+
+[2024-10-30 01:33:32] Array
+(
+    [Suisse] => Array
+        (
+            [0] => berne
+            [1] => bern
+        )
+
+    [0] => 13
+)
+
+[2024-10-30 01:33:32] tableau country: Suisse
+[2024-10-30 01:33:35] Array
+(
+    [Irlande] => Array
+        (
+            [0] => dublin
+            [1] => dublin
+        )
+
+    [0] => 12
+)
+
+[2024-10-30 01:33:35] tableau country: Irlande
+[2024-10-30 01:37:36] Array
+(
+    [Suède] => Array
+        (
+            [0] => stockholm
+            [1] => stockholm
+        )
+
+    [0] => 12
+)
+
+[2024-10-30 01:37:36] tableau country: Suède
+[2024-10-30 01:39:41] Array
+(
+    [France] => Array
+        (
+            [0] => paris
+            [1] => paris
+        )
+
+    [count] => 12
+)
+
+[2024-10-30 01:39:41] tableau country: France
+[2024-10-30 01:39:45] Array
+(
+    [Royaume-Uni] => Array
+        (
+            [0] => londres
+            [1] => london
+        )
+
+    [count] => 12
+)
+
+[2024-10-30 01:39:45] tableau country: Royaume-Uni
+[2024-10-30 01:39:49] Array
+(
+    [Danemark] => Array
+        (
+            [0] => copenhague
+            [1] => copenhagen
+        )
+
+    [count] => 11
+)
+
+[2024-10-30 01:39:49] tableau country: Danemark
