@@ -1441,3 +1441,72 @@ Formulaire soumis pour le pays Belgique
 [2024-10-30 09:35:00] Message de réponse: Correct !
 [2024-10-30 09:35:00] Capital correctement trouvé, pays exclu: Norvège
 [2024-10-30 09:35:00] Prochain pays: Finlande, capitales attendus : helsinki, helsinki
+[2024-10-30 09:41:22] Prochain pays: Venezuela, capitales attendus : caracas, caracas
+[2024-10-30 09:41:26] ********** Nouvel appel *******
+[2024-10-30 09:41:26] Formulaire soumis pour le pays Venezuela
+[2024-10-30 09:41:26] Entrée utilisateur: caracas
+[2024-10-30 09:41:26] Message de réponse: Correct !
+[2024-10-30 09:41:26] Capital correctement trouvé, pays exclu: Venezuela
+[2024-10-30 09:41:26] Prochain pays: Chili, capitales attendus : santiago, santiago
+[2024-10-30 09:41:35] ********** Nouvel appel *******
+[2024-10-30 09:41:35] Formulaire soumis pour le pays Chili
+[2024-10-30 09:41:35] Entrée utilisateur: santiago
+[2024-10-30 09:41:35] Message de réponse: Correct !
+[2024-10-30 09:41:35] Capital correctement trouvé, pays exclu: Chili
+[2024-10-30 09:41:35] Prochain pays: Paraguay, capitales attendus : asuncion, asuncion
+[2024-10-30 09:41:40] ********** Nouvel appel *******
+[2024-10-30 09:41:40] Formulaire soumis pour le pays Paraguay
+[2024-10-30 09:41:40] Entrée utilisateur: asuncion
+[2024-10-30 09:41:40] Message de réponse: Correct !
+[2024-10-30 09:41:40] Capital correctement trouvé, pays exclu: Paraguay
+[2024-10-30 09:41:40] Prochain pays: Saint-Vincent-et-les-Grenadines, capitales attendus : kingstown, kingstown
+[2024-10-30 09:41:45] ********** Nouvel appel *******
+[2024-10-30 09:41:45] Formulaire soumis pour le pays Saint-Vincent-et-les-Grenadines
+[2024-10-30 09:41:45] Entrée utilisateur: saint john
+[2024-10-30 09:41:45] Message de réponse: saint john est une mauvaise réponse (52.6 % uniquement de la bonne réponse).<br>La bonne réponse est kingstown ou kingstown.
+[2024-10-30 09:41:45] Mauvaise réponse, le pays reste dans la liste: Saint-Vincent-et-les-Grenadines
+[2024-10-30 09:41:45] Prochain pays: Costa Rica, capitales attendus : san jose, san jose
+[2024-10-30 09:47:02] Prochain pays: Haïti, capitales attendus : port-au-prince, port-au-prince
+[2024-10-30 09:48:32] Prochain pays: Suisse, capitales attendus : berne, bern
+[2024-10-30 09:48:47] ********** Nouvel appel *******
+[2024-10-30 09:48:47] Formulaire soumis pour le pays Suisse
+[2024-10-30 09:48:47] Entrée utilisateur: berne
+[2024-10-30 09:48:47] Message de réponse: Correct !
+[2024-10-30 09:48:47] Capital correctement trouvé, pays exclu: Suisse
+[2024-10-30 09:48:47] Prochain pays: Irlande, capitales attendus : dublin, dublin
+[2024-10-30 09:48:50] ********** Nouvel appel *******
+[2024-10-30 09:48:50] Formulaire soumis pour le pays Irlande
+[2024-10-30 09:48:50] Entrée utilisateur: dulbin
+[2024-10-30 09:48:50] Message de réponse: Correct !
+[2024-10-30 09:48:50] Capital correctement trouvé, pays exclu: Irlande
+[2024-10-30 09:48:50] Prochain pays: Sainte-Lucie, capitales attendus : castries, castries
+[2024-10-30 09:48:55] ********** Nouvel appel *******
+[2024-10-30 09:48:55] Formulaire soumis pour le pays Sainte-Lucie
+[2024-10-30 09:48:55] Entrée utilisateur: castries
+[2024-10-30 09:48:55] Message de réponse: Correct !
+[2024-10-30 09:48:55] Capital correctement trouvé, pays exclu: Sainte-Lucie
+[2024-10-30 09:48:55] Prochain pays: Guyana, capitales attendus : georgetown, georgetown
+[2024-10-30 09:49:01] ********** Nouvel appel *******
+[2024-10-30 09:49:01] Formulaire soumis pour le pays Guyana
+[2024-10-30 09:49:01] Entrée utilisateur: georgetown
+[2024-10-30 09:49:01] Message de réponse: Correct !
+[2024-10-30 09:49:01] Capital correctement trouvé, pays exclu: Guyana
+[2024-10-30 09:49:01] Prochain pays: Équateur, capitales attendus : quito, quito
+[2024-10-30 09:49:04] ********** Nouvel appel *******
+[2024-10-30 09:49:04] Formulaire soumis pour le pays Équateur
+[2024-10-30 09:49:04] Entrée utilisateur: roseau
+[2024-10-30 09:49:04] Message de réponse: roseau est une mauvaise réponse (18.2 % uniquement de la bonne réponse).<br>La bonne réponse est quito ou quito.
+[2024-10-30 09:49:04] Mauvaise réponse, le pays reste dans la liste: Équateur
+[2024-10-30 09:49:04] Prochain pays: Antigua-et-Barbuda, capitales attendus : saint john's, saint john's
+[2024-10-30 09:49:09] ********** Nouvel appel *******
+[2024-10-30 09:49:09] Formulaire soumis pour le pays Antigua-et-Barbuda
+[2024-10-30 09:49:09] Entrée utilisateur: la barbade
+[2024-10-30 09:49:09] Message de réponse: la barbade est une mauvaise réponse (18.2 % uniquement de la bonne réponse).<br>La bonne réponse est saint john's ou saint john's.
+[2024-10-30 09:49:09] Mauvaise réponse, le pays reste dans la liste: Antigua-et-Barbuda
+[2024-10-30 09:49:09] Prochain pays: Honduras, capitales attendus : tegucigalpa, tegucigalpa
+[2024-10-30 09:49:17] ********** Nouvel appel *******
+[2024-10-30 09:49:17] Formulaire soumis pour le pays Honduras
+[2024-10-30 09:49:17] Entrée utilisateur: tegucigalpa
+[2024-10-30 09:49:17] Message de réponse: Correct !
+[2024-10-30 09:49:17] Capital correctement trouvé, pays exclu: Honduras
+[2024-10-30 09:49:17] Prochain pays: Brésil, capitales attendus : brasilia, brasilia

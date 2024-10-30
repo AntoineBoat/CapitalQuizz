@@ -69,7 +69,7 @@ if (!$countryWithCapital) {
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Jeu de Capitales</title>
+    <title>Jeu des capitales</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script>
         // Script pour remettre le focus sur le champ de saisie après le rechargement de la page
@@ -79,7 +79,7 @@ if (!$countryWithCapital) {
     </script>
 </head>
 <body>
-    <h1>Quel est la capitale de <?php echo $country; ?> ?</h1>
+    <h1>Quelle est la capitale de ce pays:<br><?php echo $country; ?> ?</h1>
     <form method="post">
         <input type="hidden" name="country" value="<?php echo $country; ?>">
         <input type="text" id="capitalInput" name="capital" required>
