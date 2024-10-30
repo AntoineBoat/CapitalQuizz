@@ -164,3 +164,569 @@ Entrée utilisateur: athen
 Message de réponse: Correct !
 Pays sélectionné: 
 Capitales correctes: 
+Formulaire soumis pour le pays 
+Entrée utilisateur: @allo
+Message de réponse: Votre réponse @allo est Incorrecte (0 %).<br>La capitale est .
+Pays sélectionné: Pologne
+Capitales correctes: varsovie, warsaw
+Formulaire soumis pour le pays Pologne
+Entrée utilisateur: warso
+Message de réponse: Votre réponse warso est Incorrecte (72.7 %).<br>La capitale est varsovie ou warsaw.
+Pays sélectionné: Danemark
+Capitales correctes: copenhague, copenhagen
+Formulaire soumis pour le pays Danemark
+Entrée utilisateur: eaze
+Message de réponse: Votre réponse eaze est Incorrecte (42.9 %).<br>La capitale est copenhague ou copenhagen.
+Pays sélectionné: Portugal
+Capitales correctes: lisbonne, lisbon
+Formulaire soumis pour le pays Portugal
+Entrée utilisateur: aze
+Message de réponse: Votre réponse aze est Incorrecte (18.2 %).<br>La capitale est lisbonne ou lisbon.
+Pays sélectionné: Suisse
+Capitales correctes: berne, bern
+Formulaire soumis pour le pays Suisse
+Entrée utilisateur: zeaz
+Message de réponse: Votre réponse zeaz est Incorrecte (25 %).<br>La capitale est berne ou bern.
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: aze
+Message de réponse: Votre réponse aze est Incorrecte (44.4 %).<br>La capitale est athènes ou athens.
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: aea
+Message de réponse: Votre réponse aea est Incorrecte (25 %).<br>La capitale est paris ou paris.
+Pays sélectionné: Allemagne
+Capitales correctes: berlin, berlin
+Formulaire soumis pour le pays Allemagne
+Entrée utilisateur: z
+Message de réponse: Votre réponse z est Incorrecte (0 %).<br>La capitale est berlin ou berlin.
+Pays sélectionné: Norvège
+Capitales correctes: oslo, oslo
+Formulaire soumis pour le pays Norvège
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (0 %).<br>La capitale est oslo ou oslo.
+Pays sélectionné: Irlande
+Capitales correctes: dublin, dublin
+Formulaire soumis pour le pays Irlande
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (0 %).<br>La capitale est dublin ou dublin.
+Pays sélectionné: Royaume-Uni
+Capitales correctes: londres, london
+Formulaire soumis pour le pays Royaume-Uni
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (25 %).<br>La capitale est londres ou london.
+Pays sélectionné: Pays-Bas
+Capitales correctes: amsterdam, amsterdam
+Formulaire soumis pour le pays Pays-Bas
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (20 %).<br>La capitale est amsterdam ou amsterdam.
+Pays sélectionné: Finlande
+Capitales correctes: helsinki, helsinki
+Formulaire soumis pour le pays Finlande
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (22.2 %).<br>La capitale est helsinki ou helsinki.
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis pour le pays Italie
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (40 %).<br>La capitale est rome ou rome.
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (0 %).<br>La capitale est madrid ou madrid.
+Pays sélectionné: Suède
+Capitales correctes: stockholm, stockholm
+Formulaire soumis pour le pays Suède
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (0 %).<br>La capitale est stockholm ou stockholm.
+Pays sélectionné: Autriche
+Capitales correctes: vienne, vienna
+Formulaire soumis pour le pays Autriche
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (28.6 %).<br>La capitale est vienne ou vienna.
+Pays sélectionné: Belgique
+Capitales correctes: bruxelles, brussels
+Formulaire soumis pour le pays Belgique
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (22.2 %).<br>La capitale est bruxelles ou brussels.
+Formulaire soumis pour le pays Autriche
+Entrée utilisateur: e
+Message de réponse: Votre réponse e est Incorrecte (0 %).<br>La capitale est .
+Pays sélectionné: Portugal
+Capitales correctes: lisbonne, lisbon
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis pour le pays Italie
+Entrée utilisateur: zea
+Message de réponse: Votre réponse zea est Incorrecte (28.6 %).<br>La capitale est rome ou rome.
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: zea
+Message de réponse: Votre réponse zea est Incorrecte (22.2 %).<br>La capitale est athènes ou athens.
+Pays sélectionné: Irlande
+Capitales correctes: dublin, dublin
+Formulaire soumis pour le pays Irlande
+Entrée utilisateur: eaez
+Message de réponse: Votre réponse eaez est Incorrecte (0 %).<br>La capitale est dublin ou dublin.
+Pays sélectionné: Royaume-Uni
+Capitales correctes: londres, london
+Formulaire soumis pour le pays Royaume-Uni
+Entrée utilisateur: londres
+Message de réponse: Correct !
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: athen
+Message de réponse: Correct !
+Pays sélectionné: Irlande
+Capitales correctes: dublin, dublin
+Formulaire soumis pour le pays Irlande
+Entrée utilisateur: dublin
+Message de réponse: Correct !
+Pays sélectionné: Pays-Bas
+Capitales correctes: amsterdam, amsterdam
+Formulaire soumis pour le pays Pays-Bas
+Entrée utilisateur: lol
+Message de réponse: Votre réponse lol est Incorrecte (0 %).<br>La capitale est amsterdam ou amsterdam.
+Pays sélectionné: Suisse
+Capitales correctes: berne, bern
+Formulaire soumis pour le pays Suisse
+Entrée utilisateur: berne
+Message de réponse: Correct !
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: athen
+Message de réponse: Correct !
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: athen
+Message de réponse: Correct !
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: france
+Message de réponse: Votre réponse france est Incorrecte (18.2 %).<br>La capitale est paris ou paris.
+Pays sélectionné: Portugal
+Capitales correctes: lisbonne, lisbon
+Formulaire soumis pour le pays Portugal
+Entrée utilisateur: lisbon
+Message de réponse: Correct !
+Pays sélectionné: Irlande
+Capitales correctes: dublin, dublin
+Formulaire soumis pour le pays Irlande
+Entrée utilisateur: dublin
+Message de réponse: Correct !
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: madrid
+Message de réponse: Correct !
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: ddd
+Message de réponse: Votre réponse ddd est Incorrecte (44.4 %).<br>La capitale est madrid ou madrid.
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: madrid
+Message de réponse: Votre réponse madrid est Incorrecte (16.7 %).<br>La capitale est athènes ou athens.
+Pays sélectionné: Grèce
+Capitales correctes: athènes, athens
+Formulaire soumis pour le pays Grèce
+Entrée utilisateur: athens
+Message de réponse: Correct !
+Pays sélectionné: Pays-Bas
+Capitales correctes: amsterdam, amsterdam
+Formulaire soumis pour le pays Pays-Bas
+Entrée utilisateur: azea
+Message de réponse: Votre réponse azea est Incorrecte (46.2 %).<br>La capitale est amsterdam ou amsterdam.
+Pays sélectionné: Suède
+Capitales correctes: stockholm, stockholm
+Formulaire soumis pour le pays Suède
+Entrée utilisateur: aze
+Message de réponse: Votre réponse aze est Incorrecte (0 %).<br>La capitale est stockholm ou stockholm.
+Pays sélectionné: Suède
+Capitales correctes: stockholm, stockholm
+Formulaire soumis pour le pays Suède
+Entrée utilisateur: aze
+Message de réponse: Votre réponse aze est Incorrecte (0 %).<br>La capitale est stockholm ou stockholm.
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: madrid
+Message de réponse: Correct !
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: madrid
+Message de réponse: Correct !
+Pays sélectionné: Norvège
+Capitales correctes: oslo, oslo
+Formulaire soumis pour le pays Norvège
+Entrée utilisateur: oslo
+Message de réponse: Correct !
+Pays sélectionné: Portugal
+Capitales correctes: lisbonne, lisbon
+Formulaire soumis pour le pays Portugal
+Entrée utilisateur: lisbon
+Message de réponse: Correct !
+Pays sélectionné: Espagne
+Capitales correctes: madrid, madrid
+Formulaire soumis pour le pays Espagne
+Entrée utilisateur: madrid
+Message de réponse: Correct !
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis pour le pays Italie
+Entrée utilisateur: rome
+Message de réponse: Correct !
+Pays sélectionné: Pays-Bas
+Capitales correctes: amsterdam, amsterdam
+Formulaire soumis pour le pays Pays-Bas
+Entrée utilisateur: amsterdam
+Message de réponse: Correct !
+Pays sélectionné: Italie
+Capitales correctes: rome, rome
+Formulaire soumis pour le pays Italie
+Entrée utilisateur: rome
+Message de réponse: Correct !
+Pays sélectionné: Finlande
+Capitales correctes: helsinki, helsinki
+Formulaire soumis pour le pays Finlande
+Entrée utilisateur: helsinkin
+Message de réponse: Correct !
+Pays sélectionné: France
+Capitales correctes: paris, paris
+Formulaire soumis pour le pays France
+Entrée utilisateur: paris
+Message de réponse: Correct !
+Pays sélectionné: Suisse
+Capitales correctes: berne, bern
+Formulaire soumis pour le pays Suisse
+Entrée utilisateur: berne
+Message de réponse: Correct !
+Pays sélectionné: Royaume-Uni
+Capitales correctes: londres, london
+Formulaire soumis pour le pays Royaume-Uni
+Entrée utilisateur: londres
+Message de réponse: Correct !
+Pays sélectionné: Allemagne
+Capitales correctes: berlin, berlin
+[2024-10-30 00:05:48] Pays sélectionné: Irlande
+
+[2024-10-30 00:05:48] Capitales correctes: dublin, dublin
+
+[2024-10-30 00:05:54] Formulaire soumis pour le pays Irlande
+
+[2024-10-30 00:05:54] Entrée utilisateur: dublin
+
+[2024-10-30 00:05:54] Message de réponse: Correct !
+
+[2024-10-30 00:05:54] Pays sélectionné: Espagne
+
+[2024-10-30 00:05:54] Capitales correctes: madrid, madrid
+
+[2024-10-30 00:05:57] Formulaire soumis pour le pays Espagne
+
+[2024-10-30 00:05:57] Entrée utilisateur: madrid
+
+[2024-10-30 00:05:57] Message de réponse: Correct !
+
+[2024-10-30 00:05:57] Pays sélectionné: Suisse
+
+[2024-10-30 00:05:57] Capitales correctes: berne, bern
+
+[2024-10-30 00:06:00] Formulaire soumis pour le pays Suisse
+
+[2024-10-30 00:06:00] Entrée utilisateur: aeaze
+
+[2024-10-30 00:06:00] Message de réponse: Votre réponse aeaze est Incorrecte (40 %).<br>La capitale est berne ou bern.
+
+[2024-10-30 00:06:00] Pays sélectionné: Finlande
+
+[2024-10-30 00:06:00] Capitales correctes: helsinki, helsinki
+
+[2024-10-30 00:06:02] Formulaire soumis pour le pays Finlande
+
+[2024-10-30 00:06:02] Entrée utilisateur: helsinkin
+
+[2024-10-30 00:06:02] Message de réponse: Correct !
+
+[2024-10-30 00:06:02] Pays sélectionné: Grèce
+
+[2024-10-30 00:06:02] Capitales correctes: athènes, athens
+
+[2024-10-30 00:06:04] Formulaire soumis pour le pays Grèce
+
+[2024-10-30 00:06:04] Entrée utilisateur: athens
+
+[2024-10-30 00:06:04] Message de réponse: Correct !
+
+[2024-10-30 00:06:04] Pays sélectionné: France
+
+[2024-10-30 00:06:04] Capitales correctes: paris, paris
+
+[2024-10-30 00:06:06] Formulaire soumis pour le pays France
+
+[2024-10-30 00:06:06] Entrée utilisateur: paris
+
+[2024-10-30 00:06:06] Message de réponse: Correct !
+
+[2024-10-30 00:06:06] Pays sélectionné: Irlande
+
+[2024-10-30 00:06:06] Capitales correctes: dublin, dublin
+
+[2024-10-30 00:06:08] Formulaire soumis pour le pays Irlande
+
+[2024-10-30 00:06:08] Entrée utilisateur: dublin
+
+[2024-10-30 00:06:08] Message de réponse: Correct !
+
+[2024-10-30 00:06:08] Pays sélectionné: Portugal
+
+[2024-10-30 00:06:08] Capitales correctes: lisbonne, lisbon
+
+[2024-10-30 00:06:11] Formulaire soumis pour le pays Portugal
+
+[2024-10-30 00:06:11] Entrée utilisateur: lisbon$
+
+[2024-10-30 00:06:11] Message de réponse: Correct !
+
+[2024-10-30 00:06:11] Pays sélectionné: Norvège
+
+[2024-10-30 00:06:11] Capitales correctes: oslo, oslo
+
+[2024-10-30 00:06:13] Formulaire soumis pour le pays Norvège
+
+[2024-10-30 00:06:13] Entrée utilisateur: oslso
+
+[2024-10-30 00:06:13] Message de réponse: Correct !
+
+[2024-10-30 00:06:13] Pays sélectionné: Italie
+
+[2024-10-30 00:06:13] Capitales correctes: rome, rome
+
+[2024-10-30 00:06:15] Formulaire soumis pour le pays Italie
+
+[2024-10-30 00:06:15] Entrée utilisateur: rome
+
+[2024-10-30 00:06:15] Message de réponse: Correct !
+
+[2024-10-30 00:06:15] Pays sélectionné: Belgique
+
+[2024-10-30 00:06:15] Capitales correctes: bruxelles, brussels
+
+[2024-10-30 00:06:19] Formulaire soumis pour le pays Belgique
+
+[2024-10-30 00:06:19] Entrée utilisateur: bruxell
+
+[2024-10-30 00:06:19] Message de réponse: Correct !
+
+[2024-10-30 00:06:19] Pays sélectionné: Portugal
+
+[2024-10-30 00:06:19] Capitales correctes: lisbonne, lisbon
+
+[2024-10-30 00:06:21] Formulaire soumis pour le pays Portugal
+
+[2024-10-30 00:06:21] Entrée utilisateur: lisbon
+
+[2024-10-30 00:06:21] Message de réponse: Correct !
+
+[2024-10-30 00:06:21] Pays sélectionné: Portugal
+
+[2024-10-30 00:06:21] Capitales correctes: lisbonne, lisbon
+
+[2024-10-30 00:06:23] Formulaire soumis pour le pays Portugal
+
+[2024-10-30 00:06:23] Entrée utilisateur: lisbon
+
+[2024-10-30 00:06:23] Message de réponse: Correct !
+
+[2024-10-30 00:06:23] Pays sélectionné: France
+
+[2024-10-30 00:06:23] Capitales correctes: paris, paris
+
+[2024-10-30 00:08:59] 
+Formulaire soumis pour le pays France
+[2024-10-30 00:08:59] Entrée utilisateur: paris
+[2024-10-30 00:08:59] Message de réponse: Correct !
+[2024-10-30 00:08:59] Pays sélectionné: Belgique
+
+[2024-10-30 00:08:59] Capitales correctes: bruxelles, brussels
+
+[2024-10-30 00:09:02] 
+Formulaire soumis pour le pays Belgique
+[2024-10-30 00:09:02] Entrée utilisateur: bruxels
+[2024-10-30 00:09:02] Message de réponse: Correct !
+[2024-10-30 00:09:02] Pays sélectionné: Norvège
+
+[2024-10-30 00:09:02] Capitales correctes: oslo, oslo
+
+[2024-10-30 00:13:57] ********** Nouvel appel *******
+[2024-10-30 00:13:57] Formulaire soumis pour le pays Norvège
+[2024-10-30 00:13:57] Entrée utilisateur: allo
+[2024-10-30 00:13:57] Message de réponse: Votre réponse allo est Incorrecte (50 %).<br>La capitale est oslo ou oslo.
+[2024-10-30 00:13:57] Capital correctement trouvé, pays exclu: Norvège
+[2024-10-30 00:13:57] Pays sélectionné: Espagne
+[2024-10-30 00:13:57] Capitales correctes: madrid, madrid
+[2024-10-30 00:13:59] ********** Nouvel appel *******
+[2024-10-30 00:13:59] Formulaire soumis pour le pays Espagne
+[2024-10-30 00:13:59] Entrée utilisateur: test2
+[2024-10-30 00:13:59] Message de réponse: Votre réponse test2 est Incorrecte (0 %).<br>La capitale est madrid ou madrid.
+[2024-10-30 00:13:59] Capital correctement trouvé, pays exclu: Espagne
+[2024-10-30 00:13:59] Pays sélectionné: Grèce
+[2024-10-30 00:13:59] Capitales correctes: athènes, athens
+[2024-10-30 00:14:01] ********** Nouvel appel *******
+[2024-10-30 00:14:01] Formulaire soumis pour le pays Grèce
+[2024-10-30 00:14:01] Entrée utilisateur: athens
+[2024-10-30 00:14:01] Message de réponse: Correct !
+[2024-10-30 00:14:01] Réponse incorrecte, le pays reste dans la liste: Grèce
+[2024-10-30 00:14:01] Pays sélectionné: Allemagne
+[2024-10-30 00:14:01] Capitales correctes: berlin, berlin
+[2024-10-30 00:14:04] ********** Nouvel appel *******
+[2024-10-30 00:14:04] Formulaire soumis pour le pays Allemagne
+[2024-10-30 00:14:04] Entrée utilisateur: berlin
+[2024-10-30 00:14:04] Message de réponse: Correct !
+[2024-10-30 00:14:04] Réponse incorrecte, le pays reste dans la liste: Allemagne
+[2024-10-30 00:14:04] Pays sélectionné: Finlande
+[2024-10-30 00:14:04] Capitales correctes: helsinki, helsinki
+[2024-10-30 00:14:07] ********** Nouvel appel *******
+[2024-10-30 00:14:07] Formulaire soumis pour le pays Finlande
+[2024-10-30 00:14:07] Entrée utilisateur: helsinki
+[2024-10-30 00:14:07] Message de réponse: Correct !
+[2024-10-30 00:14:07] Réponse incorrecte, le pays reste dans la liste: Finlande
+[2024-10-30 00:14:07] Pays sélectionné: Belgique
+[2024-10-30 00:14:07] Capitales correctes: bruxelles, brussels
+[2024-10-30 00:14:14] ********** Nouvel appel *******
+[2024-10-30 00:14:14] Formulaire soumis pour le pays Belgique
+[2024-10-30 00:14:14] Entrée utilisateur: bruxels
+[2024-10-30 00:14:14] Message de réponse: Correct !
+[2024-10-30 00:14:14] Réponse incorrecte, le pays reste dans la liste: Belgique
+[2024-10-30 00:14:14] Pays sélectionné: Portugal
+[2024-10-30 00:14:14] Capitales correctes: lisbonne, lisbon
+[2024-10-30 00:14:18] ********** Nouvel appel *******
+[2024-10-30 00:14:18] Formulaire soumis pour le pays Portugal
+[2024-10-30 00:14:18] Entrée utilisateur: lisbon
+[2024-10-30 00:14:18] Message de réponse: Correct !
+[2024-10-30 00:14:18] Réponse incorrecte, le pays reste dans la liste: Portugal
+[2024-10-30 00:14:18] Pays sélectionné: Finlande
+[2024-10-30 00:14:18] Capitales correctes: helsinki, helsinki
+[2024-10-30 00:14:21] ********** Nouvel appel *******
+[2024-10-30 00:14:21] Formulaire soumis pour le pays Finlande
+[2024-10-30 00:14:21] Entrée utilisateur: helsinki
+[2024-10-30 00:14:21] Message de réponse: Correct !
+[2024-10-30 00:14:21] Réponse incorrecte, le pays reste dans la liste: Finlande
+[2024-10-30 00:14:21] Pays sélectionné: Portugal
+[2024-10-30 00:14:21] Capitales correctes: lisbonne, lisbon
+[2024-10-30 00:14:24] ********** Nouvel appel *******
+[2024-10-30 00:14:24] Formulaire soumis pour le pays Portugal
+[2024-10-30 00:14:24] Entrée utilisateur: lisbon
+[2024-10-30 00:14:24] Message de réponse: Correct !
+[2024-10-30 00:14:24] Réponse incorrecte, le pays reste dans la liste: Portugal
+[2024-10-30 00:14:24] Pays sélectionné: Pays-Bas
+[2024-10-30 00:14:24] Capitales correctes: amsterdam, amsterdam
+[2024-10-30 00:15:49] ********** Nouvel appel *******
+[2024-10-30 00:15:49] Formulaire soumis pour le pays Pays-Bas
+[2024-10-30 00:15:49] Entrée utilisateur: amsterdam
+[2024-10-30 00:15:49] Message de réponse: Correct !
+[2024-10-30 00:15:49] Capital correctement trouvé, pays exclu: Pays-Bas
+[2024-10-30 00:15:49] Pays sélectionné: Pologne
+[2024-10-30 00:15:49] Capitales correctes: varsovie, warsaw
+[2024-10-30 00:15:53] ********** Nouvel appel *******
+[2024-10-30 00:15:53] Formulaire soumis pour le pays Pologne
+[2024-10-30 00:15:53] Entrée utilisateur: warsoz
+[2024-10-30 00:15:53] Message de réponse: Votre réponse warsoz est Incorrecte (66.7 %).<br>La capitale est varsovie ou warsaw.
+[2024-10-30 00:15:53] Capital correctement trouvé, pays exclu: Pologne
+[2024-10-30 00:15:53] Pays sélectionné: Grèce
+[2024-10-30 00:15:53] Capitales correctes: athènes, athens
+[2024-10-30 00:15:55] ********** Nouvel appel *******
+[2024-10-30 00:15:55] Formulaire soumis pour le pays Grèce
+[2024-10-30 00:15:55] Entrée utilisateur: athen
+[2024-10-30 00:15:55] Message de réponse: Correct !
+[2024-10-30 00:15:55] Capital correctement trouvé, pays exclu: Grèce
+[2024-10-30 00:15:55] Pays sélectionné: Allemagne
+[2024-10-30 00:15:55] Capitales correctes: berlin, berlin
+[2024-10-30 00:15:57] ********** Nouvel appel *******
+[2024-10-30 00:15:57] Formulaire soumis pour le pays Allemagne
+[2024-10-30 00:15:57] Entrée utilisateur: berlin
+[2024-10-30 00:15:57] Message de réponse: Correct !
+[2024-10-30 00:15:57] Capital correctement trouvé, pays exclu: Allemagne
+[2024-10-30 00:15:57] Pays sélectionné: Portugal
+[2024-10-30 00:15:57] Capitales correctes: lisbonne, lisbon
+[2024-10-30 00:15:59] ********** Nouvel appel *******
+[2024-10-30 00:15:59] Formulaire soumis pour le pays Portugal
+[2024-10-30 00:15:59] Entrée utilisateur: lisbon
+[2024-10-30 00:15:59] Message de réponse: Correct !
+[2024-10-30 00:15:59] Capital correctement trouvé, pays exclu: Portugal
+[2024-10-30 00:15:59] Pays sélectionné: Finlande
+[2024-10-30 00:15:59] Capitales correctes: helsinki, helsinki
+[2024-10-30 00:16:02] ********** Nouvel appel *******
+[2024-10-30 00:16:02] Formulaire soumis pour le pays Finlande
+[2024-10-30 00:16:02] Entrée utilisateur: helsinki
+[2024-10-30 00:16:02] Message de réponse: Correct !
+[2024-10-30 00:16:02] Capital correctement trouvé, pays exclu: Finlande
+[2024-10-30 00:16:02] Pays sélectionné: Italie
+[2024-10-30 00:16:02] Capitales correctes: rome, rome
+[2024-10-30 00:16:03] ********** Nouvel appel *******
+[2024-10-30 00:16:03] Formulaire soumis pour le pays Italie
+[2024-10-30 00:16:03] Entrée utilisateur: rome
+[2024-10-30 00:16:03] Message de réponse: Correct !
+[2024-10-30 00:16:03] Capital correctement trouvé, pays exclu: Italie
+[2024-10-30 00:16:03] Pays sélectionné: Suisse
+[2024-10-30 00:16:03] Capitales correctes: berne, bern
+[2024-10-30 00:16:05] ********** Nouvel appel *******
+[2024-10-30 00:16:05] Formulaire soumis pour le pays Suisse
+[2024-10-30 00:16:05] Entrée utilisateur: berne
+[2024-10-30 00:16:05] Message de réponse: Correct !
+[2024-10-30 00:16:05] Capital correctement trouvé, pays exclu: Suisse
+[2024-10-30 00:16:05] Pays sélectionné: Irlande
+[2024-10-30 00:16:05] Capitales correctes: dublin, dublin
+[2024-10-30 00:16:14] ********** Nouvel appel *******
+[2024-10-30 00:16:14] Formulaire soumis pour le pays Irlande
+[2024-10-30 00:16:14] Entrée utilisateur: dublin
+[2024-10-30 00:16:14] Message de réponse: Correct !
+[2024-10-30 00:16:14] Capital correctement trouvé, pays exclu: Irlande
+[2024-10-30 00:16:14] Pays sélectionné: France
+[2024-10-30 00:16:14] Capitales correctes: paris, paris
+[2024-10-30 00:16:16] ********** Nouvel appel *******
+[2024-10-30 00:16:16] Formulaire soumis pour le pays France
+[2024-10-30 00:16:16] Entrée utilisateur: paris
+[2024-10-30 00:16:16] Message de réponse: Correct !
+[2024-10-30 00:16:16] Capital correctement trouvé, pays exclu: France
+[2024-10-30 00:16:16] Pays sélectionné: Belgique
+[2024-10-30 00:16:16] Capitales correctes: bruxelles, brussels
+[2024-10-30 00:16:18] ********** Nouvel appel *******
+[2024-10-30 00:16:18] Formulaire soumis pour le pays Belgique
+[2024-10-30 00:16:18] Entrée utilisateur: bruxels
+[2024-10-30 00:16:18] Message de réponse: Correct !
+[2024-10-30 00:16:18] Capital correctement trouvé, pays exclu: Belgique
+[2024-10-30 00:16:18] Pays sélectionné: Danemark
+[2024-10-30 00:16:18] Capitales correctes: copenhague, copenhagen
+[2024-10-30 00:16:22] ********** Nouvel appel *******
+[2024-10-30 00:16:22] Formulaire soumis pour le pays Danemark
+[2024-10-30 00:16:22] Entrée utilisateur: copenhaguen
+[2024-10-30 00:16:22] Message de réponse: Correct !
+[2024-10-30 00:16:22] Capital correctement trouvé, pays exclu: Danemark
+[2024-10-30 00:16:22] Pays sélectionné: Royaume-Uni
+[2024-10-30 00:16:22] Capitales correctes: londres, london
+[2024-10-30 00:16:24] ********** Nouvel appel *******
+[2024-10-30 00:16:24] Formulaire soumis pour le pays Royaume-Uni
+[2024-10-30 00:16:24] Entrée utilisateur: londres
+[2024-10-30 00:16:24] Message de réponse: Correct !
+[2024-10-30 00:16:24] Capital correctement trouvé, pays exclu: Royaume-Uni
+[2024-10-30 00:16:24] Pays sélectionné: Suède
+[2024-10-30 00:16:24] Capitales correctes: stockholm, stockholm
+[2024-10-30 00:16:28] ********** Nouvel appel *******
+[2024-10-30 00:16:28] Formulaire soumis pour le pays Suède
+[2024-10-30 00:16:28] Entrée utilisateur: stockholm
+[2024-10-30 00:16:28] Message de réponse: Correct !
+[2024-10-30 00:16:28] Capital correctement trouvé, pays exclu: Suède
+[2024-10-30 00:16:28] Pays sélectionné: 
+[2024-10-30 00:16:28] Capitales correctes: 

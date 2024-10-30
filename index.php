@@ -23,25 +23,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $userInput = strtolower($userInput);
     $correctCapitals = $_SESSION['correctCapitals'];
 
-    error_log("Formulaire soumis pour le pays $country\n", 3, $logFile);
-    error_log("Entrée utilisateur: $userInput\n", 3, $logFile);
+    logMessage("********** Nouvel appel *******", $logFile);
+    logMessage("Formulaire soumis pour le pays $country", $logFile);
+    logMessage("Entrée utilisateur: $userInput", $logFile);
 
     $message = checkCapital($userInput, $correctCapitals);
-    error_log("Message de réponse: $message\n", 3, $logFile);
+    logMessage("Message de réponse: $message", $logFile);
 
-    // Ajouter le pays actuel à la liste des pays exclus
-    $_SESSION['excludedCountries'][] = $country;
+    if (strpos($message, "orrect") !== false) {
+        // Ajouter le pays actuel à la liste des pays exclus
+        $_SESSION['excludedCountries'][] = $country;
+        logMessage("Capital correctement trouvé, pays exclu: $country", $logFile);
+    } else {
+        // Log que la réponse était fausse et que le pays reste dans la liste
+        logMessage("Réponse incorrecte, le pays reste dans la liste: $country", $logFile);
+    }
 }
 
 // Sélectionner un nouveau pays
-$countryWithCapital = getRandomCountry($_SESSION['excludedCountries']);
-
-// Vérifier si tous les pays ont été répondus
-if ($countryWithCapital === null) {
-    echo "<p>Tous les pays ont été répondus. Félicitations !</p>";
-    session_destroy(); // Réinitialiser la session
-    exit();
-}
 $countryWithCapital = getRandomCountry($_SESSION['excludedCountries']);
 $country = array_keys($countryWithCapital)[0];
 $correctCapitals = $countryWithCapital[$country];
@@ -50,8 +49,7 @@ $correctCapitals = $countryWithCapital[$country];
 $_SESSION['correctCapitals'] = $correctCapitals;
 
 // Log des valeurs initiales
-error_log("Pays sélectionné: $country\n", 3, $logFile);
-error_log("Capitales correctes: " . implode(", ", $correctCapitals) . "\n", 3, $logFile);
+logMessage("Prochain pays: $country, capitales attendus : . implode(", ", $correctCapitals) . ", $logFile);
 ?>
 <!DOCTYPE html>
 <html lang="fr">

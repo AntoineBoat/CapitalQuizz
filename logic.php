@@ -65,4 +65,13 @@ function checkCapital($userInput, $correctCapitals, $desiredPercent = 80) {
     return $message;
 }
 
+function logMessage($message, $logFilePath = __DIR__ . '/logs.txt') {
+    // Ajouter la date et l'heure au message
+    $date = date('Y-m-d H:i:s');
+    $logEntry = "[$date] $message" . PHP_EOL;
+
+    // Écrire le message dans le fichier de log
+    file_put_contents($logFilePath, $logEntry, FILE_APPEND);
+}
+
 ?>
