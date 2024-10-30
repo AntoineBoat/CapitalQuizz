@@ -1403,3 +1403,41 @@ Formulaire soumis pour le pays Belgique
 [2024-10-30 02:07:48] Message de réponse: ujhg est une mauvaise réponse (0 % uniquement de la bonne réponse).<br>La bonne réponse est oslo ou oslo.
 [2024-10-30 02:07:48] Mauvaise réponse, le pays reste dans la liste: Norvège
 [2024-10-30 02:07:48] Prochain pays: Allemagne, capitales attendus : berlin, berlin
+[2024-10-30 09:16:44] Prochain pays: Portugal, capitales attendus : lisbonne, lisbon
+[2024-10-30 09:16:49] ********** Nouvel appel *******
+[2024-10-30 09:16:49] Formulaire soumis pour le pays Portugal
+[2024-10-30 09:16:49] Entrée utilisateur: plop
+[2024-10-30 09:16:49] Message de réponse: plop est une mauvaise réponse (40 % uniquement de la bonne réponse).<br>La bonne réponse est lisbonne ou lisbon.
+[2024-10-30 09:16:49] Mauvaise réponse, le pays reste dans la liste: Portugal
+[2024-10-30 09:16:49] Prochain pays: Autriche, capitales attendus : vienne, vienna
+[2024-10-30 09:16:52] Prochain pays: Pays-Bas, capitales attendus : amsterdam, amsterdam
+[2024-10-30 09:34:41] ********** Nouvel appel *******
+[2024-10-30 09:34:41] Formulaire soumis pour le pays Allemagne
+[2024-10-30 09:34:41] Entrée utilisateur: berlin
+[2024-10-30 09:34:41] Message de réponse: berlin est une mauvaise réponse (26.7 % uniquement de la bonne réponse).<br>La bonne réponse est amsterdam ou amsterdam.
+[2024-10-30 09:34:41] Mauvaise réponse, le pays reste dans la liste: Allemagne
+[2024-10-30 09:34:41] Prochain pays: Portugal, capitales attendus : lisbonne, lisbon
+[2024-10-30 09:34:49] ********** Nouvel appel *******
+[2024-10-30 09:34:49] Formulaire soumis pour le pays Portugal
+[2024-10-30 09:34:49] Entrée utilisateur: lisbon
+[2024-10-30 09:34:49] Message de réponse: Correct !
+[2024-10-30 09:34:49] Capital correctement trouvé, pays exclu: Portugal
+[2024-10-30 09:34:49] Prochain pays: Espagne, capitales attendus : madrid, madrid
+[2024-10-30 09:34:53] ********** Nouvel appel *******
+[2024-10-30 09:34:53] Formulaire soumis pour le pays Espagne
+[2024-10-30 09:34:53] Entrée utilisateur: madrid
+[2024-10-30 09:34:53] Message de réponse: Correct !
+[2024-10-30 09:34:53] Capital correctement trouvé, pays exclu: Espagne
+[2024-10-30 09:34:53] Prochain pays: Pays-Bas, capitales attendus : amsterdam, amsterdam
+[2024-10-30 09:34:57] ********** Nouvel appel *******
+[2024-10-30 09:34:57] Formulaire soumis pour le pays Pays-Bas
+[2024-10-30 09:34:57] Entrée utilisateur: amsterdam
+[2024-10-30 09:34:57] Message de réponse: Correct !
+[2024-10-30 09:34:57] Capital correctement trouvé, pays exclu: Pays-Bas
+[2024-10-30 09:34:57] Prochain pays: Norvège, capitales attendus : oslo, oslo
+[2024-10-30 09:35:00] ********** Nouvel appel *******
+[2024-10-30 09:35:00] Formulaire soumis pour le pays Norvège
+[2024-10-30 09:35:00] Entrée utilisateur: oslo
+[2024-10-30 09:35:00] Message de réponse: Correct !
+[2024-10-30 09:35:00] Capital correctement trouvé, pays exclu: Norvège
+[2024-10-30 09:35:00] Prochain pays: Finlande, capitales attendus : helsinki, helsinki
