@@ -2,6 +2,9 @@
 body {
     background-color: #f0f2f5; /* Couleur de fond de Facebook */
     font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 h1 {
@@ -24,4 +27,13 @@ h1 {
 
 .excluded-countries, .wrong-countries {
     width: 45%; /* Ajustez la largeur selon vos besoins */
+}
+
+.content {
+    flex: 1;
+}
+
+.map-container {
+    width: 250px;
+    margin-left: 20px;
 }
