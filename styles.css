@@ -16,3 +16,12 @@ h1 {
     border-radius: 5px;
     margin-top: 20px;
 }
+
+.lists-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.excluded-countries, .wrong-countries {
+    width: 45%; /* Ajustez la largeur selon vos besoins */
+}

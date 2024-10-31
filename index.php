@@ -11,10 +11,8 @@ include 'logic.php';
 // Définir le chemin du fichier de log
 $logFile = __DIR__ . '/logs.txt';
 
-// Initialiser la liste des pays exclus s'il n'existe pas encore
-if (!isset($_SESSION['excludedCountries'])) {
-    $_SESSION['excludedCountries'] = [];
-}
+// Fonction pour initialiser les listes de pays exclus et de pays en erreur
+initializeLists();
 
 // Vérifier si le formulaire a été soumis et traiter la réponse
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -35,8 +33,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $_SESSION['excludedCountries'][] = $country;
         logMessage("Capital correctement trouvé, pays exclu: $country", $logFile);
     } else {
+        // Ajouter le pays actuel à la liste des pays avec une mauvaise réponse
+        $_SESSION['wrongCountries'][] = $country;
         // Log que la réponse était fausse et que le pays reste dans la liste
         logMessage("Mauvaise réponse, le pays reste dans la liste: $country", $logFile);
+        logMessage("Tableau des mauvaises réponses: " . implode(", ", $_SESSION['wrongCountries']), $logFile);
     }
 }
 
@@ -44,14 +45,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $countryWithCapital = getRandomCountry($_SESSION['excludedCountries']);
 
 // Vérifier que getRandomCountry() a retourné un tableau valide
-if (!$countryWithCapital) {
+if (!$countryWithCapital) {// Si aucun pays n'a été retourné
     // Réinitialiser la liste des pays exclus si tous les pays ont été utilisés
     $_SESSION['excludedCountries'] = [];
     $countriesLeft = 0;
     $message = "Félicitations ! Vous avez trouvé toutes les capitales.";
     logMessage("Jeu terminé. Toutes les capitales ont été trouvées.", $logFile);
     $country = null;
-} else {
+} else {// Si un pays a été retourné
     // Extraire les valeurs du tableau retourné
     $country = array_keys($countryWithCapital)[0];// Pays sélectionné
     $countriesLeft = $countryWithCapital["left"];// Nombre de pays restants
@@ -92,18 +93,32 @@ if (!$countryWithCapital) {
         }
         ?>
     </div>
-    <div class="excluded-countries">
-        <?php
-        if (!empty($_SESSION['excludedCountries'])) {
-            echo "<p>Nombre de pays restant à trouver : $countriesLeft</p>";
-            echo "<h2>Pays déjà trouvés :</h2>";
-            echo "<ul>";
-            foreach ($_SESSION['excludedCountries'] as $excludedCountry) {
-                echo "<li>$excludedCountry</li>";
+    <div class="lists-container">
+        <div class="excluded-countries">
+            <?php
+            if (!empty($_SESSION['excludedCountries'])) {
+                echo "<p>Nombre de pays restant à trouver : $countriesLeft</p>";
+                echo "<h2>Pays déjà trouvés :</h2>";
+                echo "<ul>";
+                foreach ($_SESSION['excludedCountries'] as $excludedCountry) {
+                    echo "<li>$excludedCountry</li>";
+                }
+                echo "</ul>";
             }
-            echo "</ul>";
-        }
-        ?>
+            ?>
+        </div>
+        <div class="wrong-countries">
+            <?php
+            if (!empty($_SESSION['wrongCountries'])) {
+                echo "<h2>Pays avec au moins une erreur :</h2>";
+                echo "<ul>";
+                foreach ($_SESSION['wrongCountries'] as $wrongCountry) {
+                    echo "<li>$wrongCountry</li>";
+                }
+                echo "</ul>";        
+            }
+            ?>
+        </div>
     </div>
 </body>
 </html>
