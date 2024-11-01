@@ -2464,3 +2464,75 @@ Formulaire soumis pour le pays Belgique
 [2024-11-01 00:07:28] Prochain pays: République centrafricaine, capitales attendus : bangui ou bangui
 [2024-11-01 00:07:32] Prochain pays: Antigua-et-Barbuda, capitales attendus : saint john's ou saint john's
 [2024-11-01 00:07:43] Prochain pays: Zambie, capitales attendus : lusaka ou lusaka
+[2024-11-01 00:09:28] Prochain pays: Philippines, capitales attendus : manille ou manila
+[2024-11-01 00:09:37] Prochain pays: Saint-Vincent-et-les-Grenadines, capitales attendus : kingstown ou kingstown
+[2024-11-01 00:09:47] Prochain pays: Corée du Nord, capitales attendus : pyongyang ou pyongyang
+[2024-11-01 00:16:07] Prochain pays: Slovénie, capitales attendus : ljubljana ou ljubljana
+[2024-11-01 00:16:33] Prochain pays: Turkménistan, capitales attendus : achgabat ou ashgabat
+[2024-11-01 00:16:42] Prochain pays: Indonésie, capitales attendus : jakarta ou jakarta
+[2024-11-01 00:17:02] Prochain pays: Botswana, capitales attendus : gaborone ou gaborone
+[2024-11-01 00:17:20] Prochain pays: Cap-Vert, capitales attendus : praia ou praia
+[2024-11-01 00:18:11] Prochain pays: El Salvador, capitales attendus : san salvador ou san salvador
+[2024-11-01 00:18:17] ********** Nouvel appel *******
+[2024-11-01 00:18:17] Formulaire soumis pour le pays El Salvador
+[2024-11-01 00:18:17] Entrée utilisateur: azeze
+[2024-11-01 00:18:17] Message de réponse: azeze est une mauvaise réponse (11.8 % uniquement de la bonne réponse).<br>La bonne réponse est 'san salvador' ou 'san salvador'
+[2024-11-01 00:18:17] Mauvaise réponse, le pays reste dans la liste: El Salvador
+[2024-11-01 00:18:17] Tableau des mauvaises réponses: El Salvador
+[2024-11-01 00:18:17] Prochain pays: Portugal, capitales attendus : lisbonne ou lisbon
+[2024-11-01 00:21:12] Prochain pays: Suriname, capitales attendus : paramaribo ou paramaribo
+[2024-11-01 00:22:09] Prochain pays: Vatican, capitales attendus : vatican ou vatican city
+[2024-11-01 00:22:17] ********** Nouvel appel *******
+[2024-11-01 00:22:17] Formulaire soumis pour le pays Vatican
+[2024-11-01 00:22:17] Entrée utilisateur: vatican
+[2024-11-01 00:22:17] Message de réponse: Correct !
+[2024-11-01 00:22:17] Capital correctement trouvé, pays exclu: Vatican
+[2024-11-01 00:22:17] Prochain pays: Tuvalu, capitales attendus : funafuti ou funafuti
+[2024-11-01 00:22:33] ********** Nouvel appel *******
+[2024-11-01 00:22:33] Formulaire soumis pour le pays Tuvalu
+[2024-11-01 00:22:33] Entrée utilisateur: suva
+[2024-11-01 00:22:33] Message de réponse: suva est une mauvaise réponse (33.3 % uniquement de la bonne réponse).<br>La bonne réponse est 'funafuti' ou 'funafuti'
+[2024-11-01 00:22:33] Mauvaise réponse, le pays reste dans la liste: Tuvalu
+[2024-11-01 00:22:33] Tableau des mauvaises réponses: El Salvador, Tuvalu
+[2024-11-01 00:22:33] Prochain pays: Islande, capitales attendus : reykjavik ou reykjavik
+[2024-11-01 00:22:40] ********** Nouvel appel *******
+[2024-11-01 00:22:40] Formulaire soumis pour le pays Islande
+[2024-11-01 00:22:40] Entrée utilisateur: reykjavik
+[2024-11-01 00:22:40] Message de réponse: Correct !
+[2024-11-01 00:22:40] Capital correctement trouvé, pays exclu: Islande
+[2024-11-01 00:22:40] Prochain pays: El Salvador, capitales attendus : san salvador ou san salvador
+[2024-11-01 00:22:46] ********** Nouvel appel *******
+[2024-11-01 00:22:46] Formulaire soumis pour le pays El Salvador
+[2024-11-01 00:22:46] Entrée utilisateur: azeaze
+[2024-11-01 00:22:46] Message de réponse: azeaze est une mauvaise réponse (22.2 % uniquement de la bonne réponse).<br>La bonne réponse est 'san salvador' ou 'san salvador'
+[2024-11-01 00:22:46] Mauvaise réponse, le pays reste dans la liste: El Salvador
+[2024-11-01 00:22:46] Tableau des mauvaises réponses: El Salvador, Tuvalu, El Salvador
+[2024-11-01 00:22:46] Prochain pays: Venezuela, capitales attendus : caracas ou caracas
+[2024-11-01 00:22:46] ********** Nouvel appel *******
+[2024-11-01 00:22:46] Formulaire soumis pour le pays Venezuela
+[2024-11-01 00:22:46] Entrée utilisateur: aze
+[2024-11-01 00:22:46] Message de réponse: aze est une mauvaise réponse (20 % uniquement de la bonne réponse).<br>La bonne réponse est 'caracas' ou 'caracas'
+[2024-11-01 00:22:46] Mauvaise réponse, le pays reste dans la liste: Venezuela
+[2024-11-01 00:22:46] Tableau des mauvaises réponses: El Salvador, Tuvalu, El Salvador, Venezuela
+[2024-11-01 00:22:46] Prochain pays: Brésil, capitales attendus : brasilia ou brasilia
+[2024-11-01 00:22:47] ********** Nouvel appel *******
+[2024-11-01 00:22:47] Formulaire soumis pour le pays Brésil
+[2024-11-01 00:22:47] Entrée utilisateur: aze
+[2024-11-01 00:22:47] Message de réponse: aze est une mauvaise réponse (18.2 % uniquement de la bonne réponse).<br>La bonne réponse est 'brasilia' ou 'brasilia'
+[2024-11-01 00:22:47] Mauvaise réponse, le pays reste dans la liste: Brésil
+[2024-11-01 00:22:47] Tableau des mauvaises réponses: El Salvador, Tuvalu, El Salvador, Venezuela, Brésil
+[2024-11-01 00:22:47] Prochain pays: Corée du Sud, capitales attendus : séoul ou seoul
+[2024-11-01 00:22:48] ********** Nouvel appel *******
+[2024-11-01 00:22:48] Formulaire soumis pour le pays Corée du Sud
+[2024-11-01 00:22:48] Entrée utilisateur: aze
+[2024-11-01 00:22:48] Message de réponse: aze est une mauvaise réponse (25 % uniquement de la bonne réponse).<br>La bonne réponse est 'séoul' ou 'seoul'
+[2024-11-01 00:22:48] Mauvaise réponse, le pays reste dans la liste: Corée du Sud
+[2024-11-01 00:22:48] Tableau des mauvaises réponses: El Salvador, Tuvalu, El Salvador, Venezuela, Brésil, Corée du Sud
+[2024-11-01 00:22:48] Prochain pays: Moldavie, capitales attendus : chisinau ou chisinau
+[2024-11-01 00:22:50] ********** Nouvel appel *******
+[2024-11-01 00:22:50] Formulaire soumis pour le pays Moldavie
+[2024-11-01 00:22:50] Entrée utilisateur: llkaze
+[2024-11-01 00:22:50] Message de réponse: llkaze est une mauvaise réponse (14.3 % uniquement de la bonne réponse).<br>La bonne réponse est 'chisinau' ou 'chisinau'
+[2024-11-01 00:22:50] Mauvaise réponse, le pays reste dans la liste: Moldavie
+[2024-11-01 00:22:50] Tableau des mauvaises réponses: El Salvador, Tuvalu, El Salvador, Venezuela, Brésil, Corée du Sud, Moldavie
+[2024-11-01 00:22:50] Prochain pays: Angola, capitales attendus : luanda ou luanda
