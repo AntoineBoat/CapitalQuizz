@@ -2188,3 +2188,249 @@ Formulaire soumis pour le pays Belgique
 [2024-10-31 23:52:04] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan
 [2024-10-31 23:52:04] Prochain pays: Japon, capitales attendus : tokyo ou tokyo
 [2024-10-31 23:53:29] Prochain pays: Barbade, capitales attendus : bridgetown ou bridgetown
+[2024-10-31 23:54:13] ********** Nouvel appel *******
+[2024-10-31 23:54:13] Formulaire soumis pour le pays Barbade
+[2024-10-31 23:54:13] Entrée utilisateur: la barbade
+[2024-10-31 23:54:13] Message de réponse: la barbade est une mauvaise réponse (40 % uniquement de la bonne réponse).<br>La bonne réponse est 'bridgetown' ou 'bridgetown'
+[2024-10-31 23:54:13] Mauvaise réponse, le pays reste dans la liste: Barbade
+[2024-10-31 23:54:13] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade
+[2024-10-31 23:54:13] Prochain pays: Irak, capitales attendus : bagdad ou baghdad
+[2024-10-31 23:54:19] ********** Nouvel appel *******
+[2024-10-31 23:54:19] Formulaire soumis pour le pays Irak
+[2024-10-31 23:54:19] Entrée utilisateur: bagdad
+[2024-10-31 23:54:19] Message de réponse: Correct !
+[2024-10-31 23:54:19] Capital correctement trouvé, pays exclu: Irak
+[2024-10-31 23:54:19] Prochain pays: Tunisie, capitales attendus : tunis ou tunis
+[2024-10-31 23:54:22] ********** Nouvel appel *******
+[2024-10-31 23:54:22] Formulaire soumis pour le pays Tunisie
+[2024-10-31 23:54:22] Entrée utilisateur: tunis
+[2024-10-31 23:54:22] Message de réponse: Correct !
+[2024-10-31 23:54:22] Capital correctement trouvé, pays exclu: Tunisie
+[2024-10-31 23:54:22] Prochain pays: Saint-Marin, capitales attendus : saint-marin ou san marino
+[2024-10-31 23:55:49] Prochain pays: Chypre, capitales attendus : nicosie ou nicosia
+[2024-10-31 23:55:56] Prochain pays: Samoa, capitales attendus : apia ou apia
+[2024-10-31 23:57:12] Prochain pays: Pérou, capitales attendus : lima ou lima
+[2024-10-31 23:58:26] Prochain pays: États-Unis, capitales attendus : washington ou washington
+[2024-10-31 23:58:43] Prochain pays: Norvège, capitales attendus : oslo ou oslo
+[2024-10-31 23:59:02] Prochain pays: Erythrée, capitales attendus : asmara ou asmara
+[2024-10-31 23:59:17] ********** Nouvel appel *******
+[2024-10-31 23:59:17] Formulaire soumis pour le pays Erythrée
+[2024-10-31 23:59:17] Entrée utilisateur: aze
+[2024-10-31 23:59:17] Message de réponse: aze est une mauvaise réponse (22.2 % uniquement de la bonne réponse).<br>La bonne réponse est 'asmara' ou 'asmara'
+[2024-10-31 23:59:17] Mauvaise réponse, le pays reste dans la liste: Erythrée
+[2024-10-31 23:59:17] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée
+[2024-10-31 23:59:17] Prochain pays: Togo, capitales attendus : lomé ou lomé
+[2024-10-31 23:59:19] ********** Nouvel appel *******
+[2024-10-31 23:59:19] Formulaire soumis pour le pays Togo
+[2024-10-31 23:59:19] Entrée utilisateur: lome
+[2024-10-31 23:59:19] Message de réponse: lome est une mauvaise réponse (66.7 % uniquement de la bonne réponse).<br>La bonne réponse est 'lomé' ou 'lomé'
+[2024-10-31 23:59:19] Mauvaise réponse, le pays reste dans la liste: Togo
+[2024-10-31 23:59:19] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo
+[2024-10-31 23:59:19] Prochain pays: Lettonie, capitales attendus : riga ou riga
+[2024-10-31 23:59:24] ********** Nouvel appel *******
+[2024-10-31 23:59:24] Formulaire soumis pour le pays Lettonie
+[2024-10-31 23:59:24] Entrée utilisateur: talin
+[2024-10-31 23:59:24] Message de réponse: talin est une mauvaise réponse (22.2 % uniquement de la bonne réponse).<br>La bonne réponse est 'riga' ou 'riga'
+[2024-10-31 23:59:24] Mauvaise réponse, le pays reste dans la liste: Lettonie
+[2024-10-31 23:59:24] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie
+[2024-10-31 23:59:24] Prochain pays: Nigeria, capitales attendus : abuja ou abuja
+[2024-10-31 23:59:40] ********** Nouvel appel *******
+[2024-10-31 23:59:40] Formulaire soumis pour le pays Nigeria
+[2024-10-31 23:59:40] Entrée utilisateur: niamey
+[2024-10-31 23:59:40] Message de réponse: niamey est une mauvaise réponse (18.2 % uniquement de la bonne réponse).<br>La bonne réponse est 'abuja' ou 'abuja'
+[2024-10-31 23:59:40] Mauvaise réponse, le pays reste dans la liste: Nigeria
+[2024-10-31 23:59:40] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria
+[2024-10-31 23:59:40] Prochain pays: Australie, capitales attendus : canberra ou canberra
+[2024-10-31 23:59:44] ********** Nouvel appel *******
+[2024-10-31 23:59:44] Formulaire soumis pour le pays Australie
+[2024-10-31 23:59:44] Entrée utilisateur: canberra
+[2024-10-31 23:59:44] Message de réponse: Correct !
+[2024-10-31 23:59:44] Capital correctement trouvé, pays exclu: Australie
+[2024-10-31 23:59:44] Prochain pays: Maldives, capitales attendus : malé ou male
+[2024-10-31 23:59:48] ********** Nouvel appel *******
+[2024-10-31 23:59:48] Formulaire soumis pour le pays Maldives
+[2024-10-31 23:59:48] Entrée utilisateur: male
+[2024-10-31 23:59:48] Message de réponse: Correct !
+[2024-10-31 23:59:48] Capital correctement trouvé, pays exclu: Maldives
+[2024-10-31 23:59:48] Prochain pays: Rwanda, capitales attendus : kigali ou kigali
+[2024-11-01 00:00:29] Prochain pays: Kiribati, capitales attendus : tarawa ou tarawa
+[2024-11-01 00:00:45] Prochain pays: Japon, capitales attendus : tokyo ou tokyo
+[2024-11-01 00:00:52] ********** Nouvel appel *******
+[2024-11-01 00:00:52] Formulaire soumis pour le pays Japon
+[2024-11-01 00:00:52] Entrée utilisateur: tokyo
+[2024-11-01 00:00:52] Message de réponse: Correct !
+[2024-11-01 00:00:52] Capital correctement trouvé, pays exclu: Japon
+[2024-11-01 00:00:52] Prochain pays: Côte d'Ivoire, capitales attendus : yamoussoukro ou yamoussoukro
+[2024-11-01 00:01:04] ********** Nouvel appel *******
+[2024-11-01 00:01:04] Formulaire soumis pour le pays Côte d'Ivoire
+[2024-11-01 00:01:04] Entrée utilisateur: libreville
+[2024-11-01 00:01:04] Message de réponse: libreville est une mauvaise réponse (9.1 % uniquement de la bonne réponse).<br>La bonne réponse est 'yamoussoukro' ou 'yamoussoukro'
+[2024-11-01 00:01:04] Mauvaise réponse, le pays reste dans la liste: Côte d'Ivoire
+[2024-11-01 00:01:04] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire
+[2024-11-01 00:01:04] Prochain pays: Côte d'Ivoire, capitales attendus : yamoussoukro ou yamoussoukro
+[2024-11-01 00:01:12] ********** Nouvel appel *******
+[2024-11-01 00:01:12] Formulaire soumis pour le pays Côte d'Ivoire
+[2024-11-01 00:01:12] Entrée utilisateur: yamoussoukro
+[2024-11-01 00:01:12] Message de réponse: Correct !
+[2024-11-01 00:01:12] Capital correctement trouvé, pays exclu: Côte d'Ivoire
+[2024-11-01 00:01:12] Prochain pays: Israël, capitales attendus : jérusalem ou jerusalem
+[2024-11-01 00:01:20] ********** Nouvel appel *******
+[2024-11-01 00:01:20] Formulaire soumis pour le pays Israël
+[2024-11-01 00:01:20] Entrée utilisateur: jerusalem
+[2024-11-01 00:01:20] Message de réponse: Correct !
+[2024-11-01 00:01:20] Capital correctement trouvé, pays exclu: Israël
+[2024-11-01 00:01:20] Prochain pays: Botswana, capitales attendus : gaborone ou gaborone
+[2024-11-01 00:01:26] ********** Nouvel appel *******
+[2024-11-01 00:01:26] Formulaire soumis pour le pays Botswana
+[2024-11-01 00:01:26] Entrée utilisateur: botstar
+[2024-11-01 00:01:26] Message de réponse: botstar est une mauvaise réponse (40 % uniquement de la bonne réponse).<br>La bonne réponse est 'gaborone' ou 'gaborone'
+[2024-11-01 00:01:26] Mauvaise réponse, le pays reste dans la liste: Botswana
+[2024-11-01 00:01:26] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana
+[2024-11-01 00:01:26] Prochain pays: République dominicaine, capitales attendus : saint-domingue ou santo domingo
+[2024-11-01 00:01:32] ********** Nouvel appel *******
+[2024-11-01 00:01:32] Formulaire soumis pour le pays République dominicaine
+[2024-11-01 00:01:32] Entrée utilisateur: roseau
+[2024-11-01 00:01:32] Message de réponse: roseau est une mauvaise réponse (20 % uniquement de la bonne réponse).<br>La bonne réponse est 'saint-domingue' ou 'santo domingo'
+[2024-11-01 00:01:32] Mauvaise réponse, le pays reste dans la liste: République dominicaine
+[2024-11-01 00:01:32] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine
+[2024-11-01 00:01:32] Prochain pays: Tchad, capitales attendus : ndjamena ou ndjamena
+[2024-11-01 00:01:39] ********** Nouvel appel *******
+[2024-11-01 00:01:39] Formulaire soumis pour le pays Tchad
+[2024-11-01 00:01:39] Entrée utilisateur: niamey
+[2024-11-01 00:01:39] Message de réponse: niamey est une mauvaise réponse (57.1 % uniquement de la bonne réponse).<br>La bonne réponse est 'ndjamena' ou 'ndjamena'
+[2024-11-01 00:01:39] Mauvaise réponse, le pays reste dans la liste: Tchad
+[2024-11-01 00:01:39] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad
+[2024-11-01 00:01:39] Prochain pays: Zambie, capitales attendus : lusaka ou lusaka
+[2024-11-01 00:01:43] ********** Nouvel appel *******
+[2024-11-01 00:01:43] Formulaire soumis pour le pays Zambie
+[2024-11-01 00:01:43] Entrée utilisateur: harare
+[2024-11-01 00:01:43] Message de réponse: harare est une mauvaise réponse (33.3 % uniquement de la bonne réponse).<br>La bonne réponse est 'lusaka' ou 'lusaka'
+[2024-11-01 00:01:43] Mauvaise réponse, le pays reste dans la liste: Zambie
+[2024-11-01 00:01:43] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie
+[2024-11-01 00:01:43] Prochain pays: Madagascar, capitales attendus : antananarivo ou antananarivo
+[2024-11-01 00:01:51] ********** Nouvel appel *******
+[2024-11-01 00:01:51] Formulaire soumis pour le pays Madagascar
+[2024-11-01 00:01:51] Entrée utilisateur: mogadishio
+[2024-11-01 00:01:51] Message de réponse: mogadishio est une mauvaise réponse (9.1 % uniquement de la bonne réponse).<br>La bonne réponse est 'antananarivo' ou 'antananarivo'
+[2024-11-01 00:01:51] Mauvaise réponse, le pays reste dans la liste: Madagascar
+[2024-11-01 00:01:51] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie, Madagascar
+[2024-11-01 00:01:51] Prochain pays: Chypre, capitales attendus : nicosie ou nicosia
+[2024-11-01 00:01:55] ********** Nouvel appel *******
+[2024-11-01 00:01:55] Formulaire soumis pour le pays Chypre
+[2024-11-01 00:01:55] Entrée utilisateur: nicosie
+[2024-11-01 00:01:55] Message de réponse: Correct !
+[2024-11-01 00:01:55] Capital correctement trouvé, pays exclu: Chypre
+[2024-11-01 00:01:55] Prochain pays: Tadjikistan, capitales attendus : douchanbé ou dushanbe
+[2024-11-01 00:02:23] ********** Nouvel appel *******
+[2024-11-01 00:02:23] Formulaire soumis pour le pays Tadjikistan
+[2024-11-01 00:02:23] Entrée utilisateur: je sais pas
+[2024-11-01 00:02:23] Message de réponse: je sais pas est une mauvaise réponse (10.5 % uniquement de la bonne réponse).<br>La bonne réponse est 'douchanbé' ou 'dushanbe'
+[2024-11-01 00:02:23] Mauvaise réponse, le pays reste dans la liste: Tadjikistan
+[2024-11-01 00:02:23] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie, Madagascar, Tadjikistan
+[2024-11-01 00:02:23] Prochain pays: Ukraine, capitales attendus : kiev ou kyiv
+[2024-11-01 00:02:27] ********** Nouvel appel *******
+[2024-11-01 00:02:27] Formulaire soumis pour le pays Ukraine
+[2024-11-01 00:02:27] Entrée utilisateur: kiev
+[2024-11-01 00:02:27] Message de réponse: Correct !
+[2024-11-01 00:02:27] Capital correctement trouvé, pays exclu: Ukraine
+[2024-11-01 00:02:27] Prochain pays: Oman, capitales attendus : mascate ou muscat
+[2024-11-01 00:02:33] ********** Nouvel appel *******
+[2024-11-01 00:02:33] Formulaire soumis pour le pays Oman
+[2024-11-01 00:02:33] Entrée utilisateur: muscat
+[2024-11-01 00:02:33] Message de réponse: Correct !
+[2024-11-01 00:02:33] Capital correctement trouvé, pays exclu: Oman
+[2024-11-01 00:02:33] Prochain pays: Népal, capitales attendus : katmandou ou kathmandu
+[2024-11-01 00:02:37] ********** Nouvel appel *******
+[2024-11-01 00:02:37] Formulaire soumis pour le pays Népal
+[2024-11-01 00:02:37] Entrée utilisateur: katmandou
+[2024-11-01 00:02:37] Message de réponse: Correct !
+[2024-11-01 00:02:37] Capital correctement trouvé, pays exclu: Népal
+[2024-11-01 00:02:37] Prochain pays: Gambie, capitales attendus : banjul ou banjul
+[2024-11-01 00:02:41] ********** Nouvel appel *******
+[2024-11-01 00:02:41] Formulaire soumis pour le pays Gambie
+[2024-11-01 00:02:41] Entrée utilisateur: banjul
+[2024-11-01 00:02:41] Message de réponse: Correct !
+[2024-11-01 00:02:41] Capital correctement trouvé, pays exclu: Gambie
+[2024-11-01 00:02:41] Prochain pays: Tanzanie, capitales attendus : dodoma ou dodoma
+[2024-11-01 00:02:45] ********** Nouvel appel *******
+[2024-11-01 00:02:45] Formulaire soumis pour le pays Tanzanie
+[2024-11-01 00:02:45] Entrée utilisateur: dodoma
+[2024-11-01 00:02:45] Message de réponse: Correct !
+[2024-11-01 00:02:45] Capital correctement trouvé, pays exclu: Tanzanie
+[2024-11-01 00:02:45] Prochain pays: Norvège, capitales attendus : oslo ou oslo
+[2024-11-01 00:02:48] ********** Nouvel appel *******
+[2024-11-01 00:02:48] Formulaire soumis pour le pays Norvège
+[2024-11-01 00:02:48] Entrée utilisateur: oslo
+[2024-11-01 00:02:48] Message de réponse: Correct !
+[2024-11-01 00:02:48] Capital correctement trouvé, pays exclu: Norvège
+[2024-11-01 00:02:48] Prochain pays: Maurice, capitales attendus : port-louis ou port louis
+[2024-11-01 00:03:01] ********** Nouvel appel *******
+[2024-11-01 00:03:01] Formulaire soumis pour le pays Maurice
+[2024-11-01 00:03:01] Entrée utilisateur: maurice
+[2024-11-01 00:03:01] Message de réponse: maurice est une mauvaise réponse (23.5 % uniquement de la bonne réponse).<br>La bonne réponse est 'port-louis' ou 'port louis'
+[2024-11-01 00:03:01] Mauvaise réponse, le pays reste dans la liste: Maurice
+[2024-11-01 00:03:01] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie, Madagascar, Tadjikistan, Maurice
+[2024-11-01 00:03:01] Prochain pays: Sierra Leone, capitales attendus : freetown ou freetown
+[2024-11-01 00:03:07] ********** Nouvel appel *******
+[2024-11-01 00:03:07] Formulaire soumis pour le pays Sierra Leone
+[2024-11-01 00:03:07] Entrée utilisateur: je sais pas
+[2024-11-01 00:03:07] Message de réponse: je sais pas est une mauvaise réponse (10.5 % uniquement de la bonne réponse).<br>La bonne réponse est 'freetown' ou 'freetown'
+[2024-11-01 00:03:07] Mauvaise réponse, le pays reste dans la liste: Sierra Leone
+[2024-11-01 00:03:07] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie, Madagascar, Tadjikistan, Maurice, Sierra Leone
+[2024-11-01 00:03:07] Prochain pays: Koweït, capitales attendus : koweït ou kuwait city
+[2024-11-01 00:03:17] ********** Nouvel appel *******
+[2024-11-01 00:03:17] Formulaire soumis pour le pays Koweït
+[2024-11-01 00:03:17] Entrée utilisateur: kowait city
+[2024-11-01 00:03:17] Message de réponse: Correct !
+[2024-11-01 00:03:17] Capital correctement trouvé, pays exclu: Koweït
+[2024-11-01 00:03:17] Prochain pays: Cameroun, capitales attendus : yaoundé ou yaoundé
+[2024-11-01 00:03:28] ********** Nouvel appel *******
+[2024-11-01 00:03:28] Formulaire soumis pour le pays Cameroun
+[2024-11-01 00:03:28] Entrée utilisateur: yaoundé
+[2024-11-01 00:03:28] Message de réponse: Correct !
+[2024-11-01 00:03:28] Capital correctement trouvé, pays exclu: Cameroun
+[2024-11-01 00:03:28] Prochain pays: Trinité-et-Tobago, capitales attendus : port-d'espagne ou port of spain
+[2024-11-01 00:03:35] ********** Nouvel appel *******
+[2024-11-01 00:03:35] Formulaire soumis pour le pays Trinité-et-Tobago
+[2024-11-01 00:03:35] Entrée utilisateur: port of spain
+[2024-11-01 00:03:35] Message de réponse: Correct !
+[2024-11-01 00:03:35] Capital correctement trouvé, pays exclu: Trinité-et-Tobago
+[2024-11-01 00:03:35] Prochain pays: Philippines, capitales attendus : manille ou manila
+[2024-11-01 00:03:40] ********** Nouvel appel *******
+[2024-11-01 00:03:40] Formulaire soumis pour le pays Philippines
+[2024-11-01 00:03:40] Entrée utilisateur: manille
+[2024-11-01 00:03:40] Message de réponse: Correct !
+[2024-11-01 00:03:40] Capital correctement trouvé, pays exclu: Philippines
+[2024-11-01 00:03:40] Prochain pays: Antigua-et-Barbuda, capitales attendus : saint john's ou saint john's
+[2024-11-01 00:03:46] ********** Nouvel appel *******
+[2024-11-01 00:03:46] Formulaire soumis pour le pays Antigua-et-Barbuda
+[2024-11-01 00:03:46] Entrée utilisateur: port louis
+[2024-11-01 00:03:46] Message de réponse: port louis est une mauvaise réponse (36.4 % uniquement de la bonne réponse).<br>La bonne réponse est 'saint john's' ou 'saint john's'
+[2024-11-01 00:03:46] Mauvaise réponse, le pays reste dans la liste: Antigua-et-Barbuda
+[2024-11-01 00:03:46] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie, Madagascar, Tadjikistan, Maurice, Sierra Leone, Antigua-et-Barbuda
+[2024-11-01 00:03:46] Prochain pays: Burkina Faso, capitales attendus : ouagadougou ou ouagadougou
+[2024-11-01 00:03:52] ********** Nouvel appel *******
+[2024-11-01 00:03:52] Formulaire soumis pour le pays Burkina Faso
+[2024-11-01 00:03:52] Entrée utilisateur: ouagadougou
+[2024-11-01 00:03:52] Message de réponse: Correct !
+[2024-11-01 00:03:52] Capital correctement trouvé, pays exclu: Burkina Faso
+[2024-11-01 00:03:52] Prochain pays: Marshall, capitales attendus : majuro ou majuro
+[2024-11-01 00:03:58] ********** Nouvel appel *******
+[2024-11-01 00:03:58] Formulaire soumis pour le pays Marshall
+[2024-11-01 00:03:58] Entrée utilisateur: georgetown
+[2024-11-01 00:03:58] Message de réponse: georgetown est une mauvaise réponse (12.5 % uniquement de la bonne réponse).<br>La bonne réponse est 'majuro' ou 'majuro'
+[2024-11-01 00:03:58] Mauvaise réponse, le pays reste dans la liste: Marshall
+[2024-11-01 00:03:58] Tableau des mauvaises réponses: Micronésie, Eswatini, Islande, Marshall, Égypte, Ghana, Soudan du Sud, Bénin, Nauru, Birmanie, Tadjikistan, Barbade, Erythrée, Togo, Lettonie, Nigeria, Côte d'Ivoire, Botswana, République dominicaine, Tchad, Zambie, Madagascar, Tadjikistan, Maurice, Sierra Leone, Antigua-et-Barbuda, Marshall
+[2024-11-01 00:03:58] Prochain pays: Suriname, capitales attendus : paramaribo ou paramaribo
+[2024-11-01 00:04:03] ********** Nouvel appel *******
+[2024-11-01 00:04:03] Formulaire soumis pour le pays Suriname
+[2024-11-01 00:04:03] Entrée utilisateur: paramaribo
+[2024-11-01 00:04:03] Message de réponse: Correct !
+[2024-11-01 00:04:03] Capital correctement trouvé, pays exclu: Suriname
+[2024-11-01 00:04:03] Prochain pays: République démocratique du Congo, capitales attendus : kinshasa ou kinshasa
+[2024-11-01 00:04:09] ********** Nouvel appel *******
+[2024-11-01 00:04:09] Formulaire soumis pour le pays République démocratique du Congo
+[2024-11-01 00:04:09] Entrée utilisateur: kinshssa
+[2024-11-01 00:04:09] Message de réponse: Correct !
+[2024-11-01 00:04:09] Capital correctement trouvé, pays exclu: République démocratique du Congo
+[2024-11-01 00:04:09] Prochain pays: Turkménistan, capitales attendus : achgabat ou ashgabat

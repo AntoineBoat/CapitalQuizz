@@ -75,7 +75,7 @@ if (!$countryWithCapital) {// Si il ne reste plus de pays, on a gagné
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <style>
-        #map { height: 250px; width: 250px; }
+        #map { height: 250px; width: 1550px;margin-left: auto; }
     </style>
     <title>Jeu des capitales</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
@@ -88,12 +88,12 @@ if (!$countryWithCapital) {// Si il ne reste plus de pays, on a gagné
     </script>
 </head>
 <body>
-    <h1>Quelle est la capitale de ce pays:<br><?php echo $country; ?> ?</h1>
+    <h1>Quelle est la capitale de ce pays: <?php echo $country; ?></h1>
     <div id="map"></div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
         // Initialisation de la carte
-        var map = L.map('map').setView([<?php echo $latitude; ?>, <?php echo $longitude; ?>],2);
+        var map = L.map('map').setView([<?php echo $latitude; ?>, <?php echo $longitude; ?>],4);
         
         // Ajout des tuiles sans étiquettes
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
