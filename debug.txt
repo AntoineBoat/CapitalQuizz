@@ -1,103 +1,828 @@
-[2024-10-30 01:23:11] Array
-(
-    [Portugal] => Array
-        (
-            [0] => lisbonne
-            [1] => lisbon
-        )
-
-)
-
-[2024-10-30 01:23:18] Array
-(
-    [Italie] => Array
-        (
-            [0] => rome
-            [1] => rome
-        )
-
-)
-
-[2024-10-30 01:25:02] Array
-(
-    [Finlande] => Array
-        (
-            [0] => helsinki
-            [1] => helsinki
-        )
-
-    [0] => 13
-)
-
-[2024-10-30 01:33:32] Array
-(
-    [Suisse] => Array
-        (
-            [0] => berne
-            [1] => bern
-        )
-
-    [0] => 13
-)
-
-[2024-10-30 01:33:32] tableau country: Suisse
-[2024-10-30 01:33:35] Array
-(
-    [Irlande] => Array
-        (
-            [0] => dublin
-            [1] => dublin
-        )
-
-    [0] => 12
-)
-
-[2024-10-30 01:33:35] tableau country: Irlande
-[2024-10-30 01:37:36] Array
-(
-    [Suède] => Array
-        (
-            [0] => stockholm
-            [1] => stockholm
-        )
-
-    [0] => 12
-)
-
-[2024-10-30 01:37:36] tableau country: Suède
-[2024-10-30 01:39:41] Array
-(
-    [France] => Array
-        (
-            [0] => paris
-            [1] => paris
-        )
-
-    [count] => 12
-)
-
-[2024-10-30 01:39:41] tableau country: France
-[2024-10-30 01:39:45] Array
-(
-    [Royaume-Uni] => Array
-        (
-            [0] => londres
-            [1] => london
-        )
-
-    [count] => 12
-)
-
-[2024-10-30 01:39:45] tableau country: Royaume-Uni
-[2024-10-30 01:39:49] Array
-(
-    [Danemark] => Array
-        (
-            [0] => copenhague
-            [1] => copenhagen
-        )
-
-    [count] => 11
-)
-
-[2024-10-30 01:39:49] tableau country: Danemark
+[2024-11-01 14:01:26] Pays: Bangladesh, Capitale FR: dacca, Capitale EN: dhaka
+[2024-11-01 14:01:26] Pays: Azerbaïdjan, Capitale FR: bakou, Capitale EN: baku
+[2024-11-01 14:01:26] Pays: Monaco, Capitale FR: monaco, Capitale EN: monaco
+[2024-11-01 14:01:26] Pays: Portugal, Capitale FR: lisbonne, Capitale EN: lisbon
+[2024-11-01 14:01:26] Pays: Samoa, Capitale FR: apia, Capitale EN: apia
+[2024-11-01 14:01:26] Pays disponible au debut de GetRandomCountry: Bangladesh, Azerbaïdjan, Monaco, Portugal, Samoa
+[2024-11-01 14:01:26] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:01:26] Pays restant à deviner apres suppression des exclus: Bangladesh, Azerbaïdjan, Monaco, Portugal, Samoa
+[2024-11-01 14:01:26] Pay sélectionné au hasard: Azerbaïdjan
+[2024-11-01 14:01:29] Pays disponible au debut de GetRandomCountry: Bangladesh, Azerbaïdjan, Monaco, Portugal, Samoa
+[2024-11-01 14:01:29] Pays Exclu au debut de GetRandomCountry: 0
+[2024-11-01 14:01:29] Pays restant à deviner apres suppression des exclus: Azerbaïdjan, Monaco, Portugal, Samoa
+[2024-11-01 14:01:29] Pay sélectionné au hasard: Portugal
+[2024-11-01 14:04:33] ******** nouveaux pays **********
+[2024-11-01 14:04:33] Pays: Islande, Capitale FR: reykjavik, Capitale EN: reykjavik
+[2024-11-01 14:04:33] Pays: Malaisie, Capitale FR: kuala lumpur, Capitale EN: kuala lumpur
+[2024-11-01 14:04:33] Pays: Trinité-et-Tobago, Capitale FR: port-d'espagne, Capitale EN: port of spain
+[2024-11-01 14:04:33] Pays: République dominicaine, Capitale FR: saint-domingue, Capitale EN: santo domingo
+[2024-11-01 14:04:33] Pays: Égypte, Capitale FR: le caire, Capitale EN: cairo
+[2024-11-01 14:04:33] ********************************
+[2024-11-01 14:04:33] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:04:33] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:04:33] Pays restant à deviner apres suppression des exclus: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:04:33] Pay sélectionné au hasard: Malaisie
+[2024-11-01 14:04:53] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:04:53] Pays Exclu au debut de GetRandomCountry: 0
+[2024-11-01 14:04:53] Pays restant à deviner apres suppression des exclus: Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:04:53] Pay sélectionné au hasard: République dominicaine
+[2024-11-01 14:12:50] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:12:50] Pays Exclu au debut de GetRandomCountry: 0
+[2024-11-01 14:12:50] Pays restant à deviner apres suppression des exclus: Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:12:50] Pay sélectionné au hasard: République dominicaine
+[2024-11-01 14:12:55] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:12:55] Pays Exclu au debut de GetRandomCountry: 0
+[2024-11-01 14:12:55] Pays restant à deviner apres suppression des exclus: Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:12:55] Pay sélectionné au hasard: Trinité-et-Tobago
+[2024-11-01 14:13:03] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:13:03] Pays Exclu au debut de GetRandomCountry: 0
+[2024-11-01 14:13:03] Pays restant à deviner apres suppression des exclus: Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:13:03] Pay sélectionné au hasard: Égypte
+[2024-11-01 14:13:06] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:13:06] Pays Exclu au debut de GetRandomCountry: 0, 1
+[2024-11-01 14:13:06] Pays restant à deviner apres suppression des exclus: Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:13:06] Pay sélectionné au hasard: Trinité-et-Tobago
+[2024-11-01 14:13:52] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:13:52] Pays Exclu au debut de GetRandomCountry: 0, 1, 2
+[2024-11-01 14:13:52] Pays restant à deviner apres suppression des exclus: République dominicaine, Égypte
+[2024-11-01 14:13:52] Pay sélectionné au hasard: République dominicaine
+[2024-11-01 14:13:59] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:13:59] Pays Exclu au debut de GetRandomCountry: 0, 1, 2, 3
+[2024-11-01 14:13:59] Pays restant à deviner apres suppression des exclus: Égypte
+[2024-11-01 14:13:59] Pay sélectionné au hasard: Égypte
+[2024-11-01 14:14:02] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:14:02] Pays Exclu au debut de GetRandomCountry: 0, 1, 2, 3, 4
+[2024-11-01 14:14:02] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:14:02] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:15:37] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:15:37] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:15:37] Pays restant à deviner apres suppression des exclus: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:15:37] Pay sélectionné au hasard: Islande
+[2024-11-01 14:15:47] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:15:47] Pays Exclu au debut de GetRandomCountry: 0
+[2024-11-01 14:15:47] Pays restant à deviner apres suppression des exclus: Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:15:47] Pay sélectionné au hasard: Égypte
+[2024-11-01 14:16:23] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:16:23] Pays Exclu au debut de GetRandomCountry: 0, 1
+[2024-11-01 14:16:23] Pays restant à deviner apres suppression des exclus: Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:16:23] Pay sélectionné au hasard: Trinité-et-Tobago
+[2024-11-01 14:20:13] Pays disponible au debut de GetRandomCountry: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:20:13] Pays Exclu au debut de GetRandomCountry: Égypte, Islande
+[2024-11-01 14:20:13] Pays restant à deviner apres suppression des exclus: Islande, Malaisie, Trinité-et-Tobago, République dominicaine, Égypte
+[2024-11-01 14:20:13] Pay sélectionné au hasard: Égypte
+[2024-11-01 14:20:22] ******** nouveaux pays **********
+[2024-11-01 14:20:22] Pays: Maurice, Capitale FR: port-louis, Capitale EN: port louis
+[2024-11-01 14:20:22] Pays: Pakistan, Capitale FR: islamabad, Capitale EN: islamabad
+[2024-11-01 14:20:22] Pays: Brésil, Capitale FR: brasilia, Capitale EN: brasilia
+[2024-11-01 14:20:22] Pays: Mali, Capitale FR: bamako, Capitale EN: bamako
+[2024-11-01 14:20:22] Pays: Congo, Capitale FR: brazzaville, Capitale EN: brazzaville
+[2024-11-01 14:20:22] ********************************
+[2024-11-01 14:20:22] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:22] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:20:22] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:22] Pay sélectionné au hasard: Maurice
+[2024-11-01 14:20:25] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:25] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:20:25] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:25] Pay sélectionné au hasard: Brésil
+[2024-11-01 14:20:29] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:29] Pays Exclu au debut de GetRandomCountry: Brésil
+[2024-11-01 14:20:29] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:29] Pay sélectionné au hasard: Maurice
+[2024-11-01 14:20:33] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:33] Pays Exclu au debut de GetRandomCountry: Maurice, Brésil
+[2024-11-01 14:20:33] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:33] Pay sélectionné au hasard: Congo
+[2024-11-01 14:20:40] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:40] Pays Exclu au debut de GetRandomCountry: Maurice, Brésil
+[2024-11-01 14:20:40] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:20:40] Pay sélectionné au hasard: Brésil
+[2024-11-01 14:21:20] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:20] Pays Exclu au debut de GetRandomCountry: Brésil, Maurice, Brésil
+[2024-11-01 14:21:20] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:20] Pay sélectionné au hasard: Congo
+[2024-11-01 14:21:25] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:25] Pays Exclu au debut de GetRandomCountry: Congo, Brésil, Maurice, Brésil
+[2024-11-01 14:21:25] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:25] Pay sélectionné au hasard: Pakistan
+[2024-11-01 14:21:31] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:31] Pays Exclu au debut de GetRandomCountry: Pakistan, Congo, Brésil, Maurice, Brésil
+[2024-11-01 14:21:31] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:31] Pay sélectionné au hasard: Mali
+[2024-11-01 14:21:36] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:36] Pays Exclu au debut de GetRandomCountry: Mali, Pakistan, Congo, Brésil, Maurice, Brésil
+[2024-11-01 14:21:36] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:36] Pay sélectionné au hasard: Pakistan
+[2024-11-01 14:21:50] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:50] Pays Exclu au debut de GetRandomCountry: Pakistan, Mali, Pakistan, Congo, Brésil, Maurice, Brésil
+[2024-11-01 14:21:50] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:50] Pay sélectionné au hasard: Pakistan
+[2024-11-01 14:21:54] Pays disponible au debut de GetRandomCountry: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:54] Pays Exclu au debut de GetRandomCountry: Pakistan, Pakistan, Mali, Pakistan, Congo, Brésil, Maurice, Brésil
+[2024-11-01 14:21:54] Pays restant à deviner apres suppression des exclus: Maurice, Pakistan, Brésil, Mali, Congo
+[2024-11-01 14:21:54] Pay sélectionné au hasard: Mali
+[2024-11-01 14:26:00] ******** nouveaux pays **********
+[2024-11-01 14:26:00] Pays: Chypre, Capitale FR: nicosie, Capitale EN: nicosia
+[2024-11-01 14:26:00] Pays: Gambie, Capitale FR: banjul, Capitale EN: banjul
+[2024-11-01 14:26:00] Pays: Bhoutan, Capitale FR: thimphou, Capitale EN: thimphu
+[2024-11-01 14:26:00] Pays: Palaos, Capitale FR: ngerulmud, Capitale EN: ngerulmud
+[2024-11-01 14:26:00] Pays: Liban, Capitale FR: beyrouth, Capitale EN: beirut
+[2024-11-01 14:26:00] ********************************
+[2024-11-01 14:26:00] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:00] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:26:00] Pays restant à deviner apres suppression des exclus: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:00] Pay sélectionné au hasard: Gambie
+[2024-11-01 14:26:03] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:03] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:26:03] Pays restant à deviner apres suppression des exclus: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:03] Pay sélectionné au hasard: Gambie
+[2024-11-01 14:26:07] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:07] Pays Exclu au debut de GetRandomCountry: Gambie
+[2024-11-01 14:26:07] Pays restant à deviner apres suppression des exclus: Chypre, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:07] Pay sélectionné au hasard: Liban
+[2024-11-01 14:26:10] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:10] Pays Exclu au debut de GetRandomCountry: Liban, Gambie
+[2024-11-01 14:26:10] Pays restant à deviner apres suppression des exclus: Chypre, Bhoutan, Palaos
+[2024-11-01 14:26:10] Pay sélectionné au hasard: Chypre
+[2024-11-01 14:26:18] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:18] Pays Exclu au debut de GetRandomCountry: Liban, Gambie
+[2024-11-01 14:26:18] Pays restant à deviner apres suppression des exclus: Chypre, Bhoutan, Palaos
+[2024-11-01 14:26:18] Pay sélectionné au hasard: Chypre
+[2024-11-01 14:26:21] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:21] Pays Exclu au debut de GetRandomCountry: Chypre, Liban, Gambie
+[2024-11-01 14:26:21] Pays restant à deviner apres suppression des exclus: Bhoutan, Palaos
+[2024-11-01 14:26:21] Pay sélectionné au hasard: Palaos
+[2024-11-01 14:26:26] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:26] Pays Exclu au debut de GetRandomCountry: Chypre, Liban, Gambie
+[2024-11-01 14:26:26] Pays restant à deviner apres suppression des exclus: Bhoutan, Palaos
+[2024-11-01 14:26:26] Pay sélectionné au hasard: Palaos
+[2024-11-01 14:26:31] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:31] Pays Exclu au debut de GetRandomCountry: Palaos, Chypre, Liban, Gambie
+[2024-11-01 14:26:31] Pays restant à deviner apres suppression des exclus: Bhoutan
+[2024-11-01 14:26:31] Pay sélectionné au hasard: Bhoutan
+[2024-11-01 14:26:35] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:35] Pays Exclu au debut de GetRandomCountry: Bhoutan, Palaos, Chypre, Liban, Gambie
+[2024-11-01 14:26:35] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:26:35] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:26:39] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:39] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:26:39] Pays restant à deviner apres suppression des exclus: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:39] Pay sélectionné au hasard: Chypre
+[2024-11-01 14:26:43] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:43] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:26:43] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:43] Pay sélectionné au hasard: Liban
+[2024-11-01 14:26:48] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:48] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:26:48] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:48] Pay sélectionné au hasard: Gambie
+[2024-11-01 14:26:57] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:57] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:26:57] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:26:57] Pay sélectionné au hasard: Liban
+[2024-11-01 14:28:50] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:28:50] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:28:50] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:28:50] Pay sélectionné au hasard: Gambie
+[2024-11-01 14:28:56] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:28:56] Pays Exclu au debut de GetRandomCountry: Chypre, Gambie
+[2024-11-01 14:28:56] Pays restant à deviner apres suppression des exclus: Bhoutan, Palaos, Liban
+[2024-11-01 14:28:56] Pay sélectionné au hasard: Palaos
+[2024-11-01 14:29:00] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:00] Pays Exclu au debut de GetRandomCountry: Chypre, Gambie, Palaos
+[2024-11-01 14:29:00] Pays restant à deviner apres suppression des exclus: Bhoutan, Liban
+[2024-11-01 14:29:00] Pay sélectionné au hasard: Bhoutan
+[2024-11-01 14:29:07] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:07] Pays Exclu au debut de GetRandomCountry: Chypre, Gambie, Palaos, Bhoutan
+[2024-11-01 14:29:07] Pays restant à deviner apres suppression des exclus: Liban
+[2024-11-01 14:29:07] Pay sélectionné au hasard: Liban
+[2024-11-01 14:29:15] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:15] Pays Exclu au debut de GetRandomCountry: Chypre, Gambie, Palaos, Bhoutan, Liban
+[2024-11-01 14:29:15] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:29:15] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:29:24] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:24] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:29:24] Pays restant à deviner apres suppression des exclus: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:24] Pay sélectionné au hasard: Chypre
+[2024-11-01 14:29:28] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:28] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:29:28] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:29:28] Pay sélectionné au hasard: Gambie
+[2024-11-01 14:34:18] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:34:18] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:34:18] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:34:18] Pay sélectionné au hasard: Liban
+[2024-11-01 14:34:30] Pays disponible au debut de GetRandomCountry: Chypre, Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:34:30] Pays Exclu au debut de GetRandomCountry: Chypre
+[2024-11-01 14:34:30] Pays restant à deviner apres suppression des exclus: Gambie, Bhoutan, Palaos, Liban
+[2024-11-01 14:34:30] Pay sélectionné au hasard: Gambie
+[2024-11-01 14:34:38] ******** nouveaux pays **********
+[2024-11-01 14:34:38] Pays: République centrafricaine, Capitale FR: bangui, Capitale EN: bangui
+[2024-11-01 14:34:38] Pays: Afrique du Sud, Capitale FR: prétoria, Capitale EN: pretoria
+[2024-11-01 14:34:38] Pays: Iran, Capitale FR: téhéran, Capitale EN: tehran
+[2024-11-01 14:34:38] Pays: Ouzbékistan, Capitale FR: tachkent, Capitale EN: tashkent
+[2024-11-01 14:34:38] Pays: Tunisie, Capitale FR: tunis, Capitale EN: tunis
+[2024-11-01 14:34:38] ********************************
+[2024-11-01 14:34:38] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:34:38] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:34:38] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:34:38] Pay sélectionné au hasard: Ouzbékistan
+[2024-11-01 14:34:45] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:34:45] Pays Exclu au debut de GetRandomCountry: Ouzbékistan
+[2024-11-01 14:34:45] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Tunisie
+[2024-11-01 14:34:45] Pay sélectionné au hasard: Iran
+[2024-11-01 14:34:48] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:34:48] Pays Exclu au debut de GetRandomCountry: Ouzbékistan, Iran
+[2024-11-01 14:34:48] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Tunisie
+[2024-11-01 14:34:48] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:34:53] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:34:53] Pays Exclu au debut de GetRandomCountry: Ouzbékistan, Iran
+[2024-11-01 14:34:53] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Tunisie
+[2024-11-01 14:34:53] Pay sélectionné au hasard: Afrique du Sud
+[2024-11-01 14:34:59] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:34:59] Pays Exclu au debut de GetRandomCountry: Ouzbékistan, Iran, Afrique du Sud
+[2024-11-01 14:34:59] Pays restant à deviner apres suppression des exclus: République centrafricaine, Tunisie
+[2024-11-01 14:34:59] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:35:04] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:04] Pays Exclu au debut de GetRandomCountry: Ouzbékistan, Iran, Afrique du Sud
+[2024-11-01 14:35:04] Pays restant à deviner apres suppression des exclus: République centrafricaine, Tunisie
+[2024-11-01 14:35:04] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:35:07] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:07] Pays Exclu au debut de GetRandomCountry: Ouzbékistan, Iran, Afrique du Sud, République centrafricaine
+[2024-11-01 14:35:07] Pays restant à deviner apres suppression des exclus: Tunisie
+[2024-11-01 14:35:07] Pay sélectionné au hasard: Tunisie
+[2024-11-01 14:35:11] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:11] Pays Exclu au debut de GetRandomCountry: Ouzbékistan, Iran, Afrique du Sud, République centrafricaine, Tunisie
+[2024-11-01 14:35:11] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:35:11] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:35:20] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:20] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:35:20] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:20] Pay sélectionné au hasard: Iran
+[2024-11-01 14:35:42] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:42] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:35:42] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:35:42] Pay sélectionné au hasard: Tunisie
+[2024-11-01 14:36:48] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:36:48] Pays Exclu au debut de GetRandomCountry: Tunisie
+[2024-11-01 14:36:48] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan
+[2024-11-01 14:36:48] Pay sélectionné au hasard: Afrique du Sud
+[2024-11-01 14:36:52] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:36:52] Pays Exclu au debut de GetRandomCountry: Tunisie, Afrique du Sud
+[2024-11-01 14:36:52] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran, Ouzbékistan
+[2024-11-01 14:36:52] Pay sélectionné au hasard: Ouzbékistan
+[2024-11-01 14:36:55] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:36:55] Pays Exclu au debut de GetRandomCountry: Tunisie, Afrique du Sud
+[2024-11-01 14:36:55] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran, Ouzbékistan
+[2024-11-01 14:36:55] Pay sélectionné au hasard: Ouzbékistan
+[2024-11-01 14:37:01] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:01] Pays Exclu au debut de GetRandomCountry: Tunisie, Afrique du Sud, Ouzbékistan
+[2024-11-01 14:37:01] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran
+[2024-11-01 14:37:01] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:37:03] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:03] Pays Exclu au debut de GetRandomCountry: Tunisie, Afrique du Sud, Ouzbékistan, République centrafricaine
+[2024-11-01 14:37:03] Pays restant à deviner apres suppression des exclus: Iran
+[2024-11-01 14:37:03] Pay sélectionné au hasard: Iran
+[2024-11-01 14:37:09] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:09] Pays Exclu au debut de GetRandomCountry: Tunisie, Afrique du Sud, Ouzbékistan, République centrafricaine
+[2024-11-01 14:37:09] Pays restant à deviner apres suppression des exclus: Iran
+[2024-11-01 14:37:09] Pay sélectionné au hasard: Iran
+[2024-11-01 14:37:16] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:16] Pays Exclu au debut de GetRandomCountry: Tunisie, Afrique du Sud, Ouzbékistan, République centrafricaine, Iran
+[2024-11-01 14:37:16] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:37:16] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:37:30] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:30] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:37:30] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:30] Pay sélectionné au hasard: Afrique du Sud
+[2024-11-01 14:37:34] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:34] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:37:34] Pays restant à deviner apres suppression des exclus: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:34] Pay sélectionné au hasard: Afrique du Sud
+[2024-11-01 14:37:38] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:38] Pays Exclu au debut de GetRandomCountry: Afrique du Sud
+[2024-11-01 14:37:38] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:38] Pay sélectionné au hasard: Ouzbékistan
+[2024-11-01 14:37:41] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:41] Pays Exclu au debut de GetRandomCountry: Afrique du Sud
+[2024-11-01 14:37:41] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:37:41] Pay sélectionné au hasard: Ouzbékistan
+[2024-11-01 14:41:47] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:41:47] Pays Exclu au debut de GetRandomCountry: Afrique du Sud
+[2024-11-01 14:41:47] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:41:47] Pay sélectionné au hasard: Ouzbékistan
+[2024-11-01 14:41:53] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:41:53] Pays Exclu au debut de GetRandomCountry: Afrique du Sud, Ouzbékistan
+[2024-11-01 14:41:53] Pays restant à deviner apres suppression des exclus: République centrafricaine, Iran, Tunisie
+[2024-11-01 14:41:53] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:41:55] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:41:55] Pays Exclu au debut de GetRandomCountry: Afrique du Sud, Ouzbékistan, République centrafricaine
+[2024-11-01 14:41:55] Pays restant à deviner apres suppression des exclus: Iran, Tunisie
+[2024-11-01 14:41:55] Pay sélectionné au hasard: Iran
+[2024-11-01 14:41:59] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:41:59] Pays Exclu au debut de GetRandomCountry: Afrique du Sud, Ouzbékistan, République centrafricaine, Iran
+[2024-11-01 14:41:59] Pays restant à deviner apres suppression des exclus: Tunisie
+[2024-11-01 14:41:59] Pay sélectionné au hasard: Tunisie
+[2024-11-01 14:42:00] Pays disponible au debut de GetRandomCountry: République centrafricaine, Afrique du Sud, Iran, Ouzbékistan, Tunisie
+[2024-11-01 14:42:00] Pays Exclu au debut de GetRandomCountry: Afrique du Sud, Ouzbékistan, République centrafricaine, Iran, Tunisie
+[2024-11-01 14:42:00] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:42:00] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:42:00] ******** nouveaux pays **********
+[2024-11-01 14:42:00] Pays: Indonésie, Capitale FR: jakarta, Capitale EN: jakarta
+[2024-11-01 14:42:00] Pays: Norvège, Capitale FR: oslo, Capitale EN: oslo
+[2024-11-01 14:42:00] Pays: Mali, Capitale FR: bamako, Capitale EN: bamako
+[2024-11-01 14:42:00] Pays: Mongolie, Capitale FR: oulane-bator, Capitale EN: ulaanbaatar
+[2024-11-01 14:42:00] Pays: Argentine, Capitale FR: buenos aires, Capitale EN: buenos aires
+[2024-11-01 14:42:00] ********************************
+[2024-11-01 14:42:03] Pays disponible au debut de GetRandomCountry: Indonésie, Norvège, Mali, Mongolie, Argentine
+[2024-11-01 14:42:03] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:42:03] Pays restant à deviner apres suppression des exclus: Indonésie, Norvège, Mali, Mongolie, Argentine
+[2024-11-01 14:42:03] Pay sélectionné au hasard: Mongolie
+[2024-11-01 14:42:06] Pays disponible au debut de GetRandomCountry: Indonésie, Norvège, Mali, Mongolie, Argentine
+[2024-11-01 14:42:06] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:42:06] Pays restant à deviner apres suppression des exclus: Indonésie, Norvège, Mali, Mongolie, Argentine
+[2024-11-01 14:42:06] Pay sélectionné au hasard: Mali
+[2024-11-01 14:42:13] Pays disponible au debut de GetRandomCountry: Indonésie, Norvège, Mali, Mongolie, Argentine
+[2024-11-01 14:42:13] Pays Exclu au debut de GetRandomCountry: Mali
+[2024-11-01 14:42:13] Pays restant à deviner apres suppression des exclus: Indonésie, Norvège, Mongolie, Argentine
+[2024-11-01 14:42:13] Pay sélectionné au hasard: Indonésie
+[2024-11-01 14:43:27] ******** nouveaux pays **********
+[2024-11-01 14:43:27] Pays: Thaïlande, Capitale FR: bangkok, Capitale EN: bangkok
+[2024-11-01 14:43:27] Pays: Allemagne, Capitale FR: berlin, Capitale EN: berlin
+[2024-11-01 14:43:27] Pays: Arménie, Capitale FR: erevan, Capitale EN: yerevan
+[2024-11-01 14:43:27] Pays: Congo, Capitale FR: brazzaville, Capitale EN: brazzaville
+[2024-11-01 14:43:27] Pays: Chypre, Capitale FR: nicosie, Capitale EN: nicosia
+[2024-11-01 14:43:27] Pays: Égypte, Capitale FR: le caire, Capitale EN: cairo
+[2024-11-01 14:43:27] Pays: Japon, Capitale FR: tokyo, Capitale EN: tokyo
+[2024-11-01 14:43:27] Pays: Laos, Capitale FR: vientiane, Capitale EN: vientiane
+[2024-11-01 14:43:27] Pays: Pérou, Capitale FR: lima, Capitale EN: lima
+[2024-11-01 14:43:27] Pays: Togo, Capitale FR: lomé, Capitale EN: lomé
+[2024-11-01 14:43:27] Pays: Corée du Nord, Capitale FR: pyongyang, Capitale EN: pyongyang
+[2024-11-01 14:43:27] Pays: Monténégro, Capitale FR: podgorica, Capitale EN: podgorica
+[2024-11-01 14:43:27] Pays: Croatie, Capitale FR: zagreb, Capitale EN: zagreb
+[2024-11-01 14:43:27] Pays: Qatar, Capitale FR: doha, Capitale EN: doha
+[2024-11-01 14:43:27] Pays: Tadjikistan, Capitale FR: douchanbé, Capitale EN: dushanbe
+[2024-11-01 14:43:27] Pays: Panama, Capitale FR: panama, Capitale EN: panama city
+[2024-11-01 14:43:27] Pays: Sénégal, Capitale FR: dakar, Capitale EN: dakar
+[2024-11-01 14:43:27] Pays: Lesotho, Capitale FR: maseru, Capitale EN: maseru
+[2024-11-01 14:43:27] Pays: Barbade, Capitale FR: bridgetown, Capitale EN: bridgetown
+[2024-11-01 14:43:27] Pays: Malawi, Capitale FR: lilongwe, Capitale EN: lilongwe
+[2024-11-01 14:43:27] ********************************
+[2024-11-01 14:43:27] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:27] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:43:27] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:27] Pay sélectionné au hasard: Tadjikistan
+[2024-11-01 14:43:30] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:30] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:43:30] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:30] Pay sélectionné au hasard: Arménie
+[2024-11-01 14:43:38] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:38] Pays Exclu au debut de GetRandomCountry: Arménie
+[2024-11-01 14:43:38] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:38] Pay sélectionné au hasard: Monténégro
+[2024-11-01 14:43:44] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:44] Pays Exclu au debut de GetRandomCountry: Arménie
+[2024-11-01 14:43:44] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:44] Pay sélectionné au hasard: Lesotho
+[2024-11-01 14:43:48] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:48] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho
+[2024-11-01 14:43:48] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Barbade, Malawi
+[2024-11-01 14:43:48] Pay sélectionné au hasard: Croatie
+[2024-11-01 14:43:55] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:55] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho
+[2024-11-01 14:43:55] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Barbade, Malawi
+[2024-11-01 14:43:55] Pay sélectionné au hasard: Chypre
+[2024-11-01 14:43:59] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:43:59] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre
+[2024-11-01 14:43:59] Pays restant à deviner apres suppression des exclus: Thaïlande, Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Barbade, Malawi
+[2024-11-01 14:43:59] Pay sélectionné au hasard: Thaïlande
+[2024-11-01 14:44:02] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:02] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande
+[2024-11-01 14:44:02] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Barbade, Malawi
+[2024-11-01 14:44:02] Pay sélectionné au hasard: Panama
+[2024-11-01 14:44:06] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:06] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama
+[2024-11-01 14:44:06] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Sénégal, Barbade, Malawi
+[2024-11-01 14:44:06] Pay sélectionné au hasard: Malawi
+[2024-11-01 14:44:10] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:10] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi
+[2024-11-01 14:44:10] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:10] Pay sélectionné au hasard: Tadjikistan
+[2024-11-01 14:44:13] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:13] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi
+[2024-11-01 14:44:13] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:13] Pay sélectionné au hasard: Corée du Nord
+[2024-11-01 14:44:19] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:19] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord
+[2024-11-01 14:44:19] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Monténégro, Croatie, Qatar, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:19] Pay sélectionné au hasard: Monténégro
+[2024-11-01 14:44:23] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:23] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro
+[2024-11-01 14:44:23] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Croatie, Qatar, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:23] Pay sélectionné au hasard: Qatar
+[2024-11-01 14:44:25] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:25] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar
+[2024-11-01 14:44:25] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Croatie, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:25] Pay sélectionné au hasard: Croatie
+[2024-11-01 14:44:28] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:28] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie
+[2024-11-01 14:44:28] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:28] Pay sélectionné au hasard: Barbade
+[2024-11-01 14:44:35] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:35] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie
+[2024-11-01 14:44:35] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Égypte, Japon, Laos, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:35] Pay sélectionné au hasard: Égypte
+[2024-11-01 14:44:55] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:44:55] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte
+[2024-11-01 14:44:55] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Japon, Laos, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:44:55] Pay sélectionné au hasard: Togo
+[2024-11-01 14:45:01] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:01] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte
+[2024-11-01 14:45:01] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Japon, Laos, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:01] Pay sélectionné au hasard: Japon
+[2024-11-01 14:45:13] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:13] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon
+[2024-11-01 14:45:13] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Laos, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:13] Pay sélectionné au hasard: Laos
+[2024-11-01 14:45:20] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:20] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos
+[2024-11-01 14:45:20] Pays restant à deviner apres suppression des exclus: Allemagne, Congo, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:20] Pay sélectionné au hasard: Allemagne
+[2024-11-01 14:45:26] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:26] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne
+[2024-11-01 14:45:26] Pays restant à deviner apres suppression des exclus: Congo, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:26] Pay sélectionné au hasard: Congo
+[2024-11-01 14:45:35] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:35] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne
+[2024-11-01 14:45:35] Pays restant à deviner apres suppression des exclus: Congo, Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:35] Pay sélectionné au hasard: Congo
+[2024-11-01 14:45:45] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:45] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo
+[2024-11-01 14:45:45] Pays restant à deviner apres suppression des exclus: Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:45] Pay sélectionné au hasard: Barbade
+[2024-11-01 14:45:53] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:53] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo
+[2024-11-01 14:45:53] Pays restant à deviner apres suppression des exclus: Pérou, Togo, Tadjikistan, Sénégal, Barbade
+[2024-11-01 14:45:53] Pay sélectionné au hasard: Barbade
+[2024-11-01 14:45:58] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:45:58] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo, Barbade
+[2024-11-01 14:45:58] Pays restant à deviner apres suppression des exclus: Pérou, Togo, Tadjikistan, Sénégal
+[2024-11-01 14:45:58] Pay sélectionné au hasard: Sénégal
+[2024-11-01 14:46:03] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:46:03] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo, Barbade, Sénégal
+[2024-11-01 14:46:03] Pays restant à deviner apres suppression des exclus: Pérou, Togo, Tadjikistan
+[2024-11-01 14:46:03] Pay sélectionné au hasard: Pérou
+[2024-11-01 14:46:05] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:46:05] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo, Barbade, Sénégal, Pérou
+[2024-11-01 14:46:05] Pays restant à deviner apres suppression des exclus: Togo, Tadjikistan
+[2024-11-01 14:46:05] Pay sélectionné au hasard: Tadjikistan
+[2024-11-01 14:46:11] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:46:11] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo, Barbade, Sénégal, Pérou, Tadjikistan
+[2024-11-01 14:46:11] Pays restant à deviner apres suppression des exclus: Togo
+[2024-11-01 14:46:11] Pay sélectionné au hasard: Togo
+[2024-11-01 14:46:16] Pays disponible au debut de GetRandomCountry: Thaïlande, Allemagne, Arménie, Congo, Chypre, Égypte, Japon, Laos, Pérou, Togo, Corée du Nord, Monténégro, Croatie, Qatar, Tadjikistan, Panama, Sénégal, Lesotho, Barbade, Malawi
+[2024-11-01 14:46:16] Pays Exclu au debut de GetRandomCountry: Arménie, Lesotho, Chypre, Thaïlande, Panama, Malawi, Corée du Nord, Monténégro, Qatar, Croatie, Égypte, Japon, Laos, Allemagne, Congo, Barbade, Sénégal, Pérou, Tadjikistan, Togo
+[2024-11-01 14:46:16] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:46:16] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:46:16] ******** nouveaux pays **********
+[2024-11-01 14:46:16] Pays: Serbie, Capitale FR: belgrade, Capitale EN: belgrade
+[2024-11-01 14:46:16] Pays: Eswatini, Capitale FR: mbabane, Capitale EN: mbabane
+[2024-11-01 14:46:16] Pays: Syrie, Capitale FR: damas, Capitale EN: damascus
+[2024-11-01 14:46:16] Pays: Bosnie-Herzégovine, Capitale FR: sarajevo, Capitale EN: sarajevo
+[2024-11-01 14:46:16] Pays: Soudan, Capitale FR: khartoum, Capitale EN: khartoum
+[2024-11-01 14:46:16] Pays: États-Unis, Capitale FR: washington, Capitale EN: washington
+[2024-11-01 14:46:16] Pays: Sainte-Lucie, Capitale FR: castries, Capitale EN: castries
+[2024-11-01 14:46:16] Pays: Mongolie, Capitale FR: oulane-bator, Capitale EN: ulaanbaatar
+[2024-11-01 14:46:16] Pays: Cap-Vert, Capitale FR: praia, Capitale EN: praia
+[2024-11-01 14:46:16] Pays: Finlande, Capitale FR: helsinki, Capitale EN: helsinki
+[2024-11-01 14:46:16] Pays: Zambie, Capitale FR: lusaka, Capitale EN: lusaka
+[2024-11-01 14:46:16] Pays: Bahamas, Capitale FR: nassau, Capitale EN: nassau
+[2024-11-01 14:46:16] Pays: Indonésie, Capitale FR: jakarta, Capitale EN: jakarta
+[2024-11-01 14:46:16] Pays: Brunei, Capitale FR: bandar seri begawan, Capitale EN: bandar seri begawan
+[2024-11-01 14:46:16] Pays: Saint-Kitts-et-Nevis, Capitale FR: basseterre, Capitale EN: basseterre
+[2024-11-01 14:46:16] Pays: Nauru, Capitale FR: yaren, Capitale EN: yaren
+[2024-11-01 14:46:16] Pays: Suriname, Capitale FR: paramaribo, Capitale EN: paramaribo
+[2024-11-01 14:46:16] Pays: Antigua-et-Barbuda, Capitale FR: saint john's, Capitale EN: saint john's
+[2024-11-01 14:46:16] Pays: France, Capitale FR: paris, Capitale EN: paris
+[2024-11-01 14:46:16] Pays: Micronésie, Capitale FR: palikir, Capitale EN: palikir
+[2024-11-01 14:46:16] ********************************
+[2024-11-01 14:46:19] Pays disponible au debut de GetRandomCountry: Serbie, Eswatini, Syrie, Bosnie-Herzégovine, Soudan, États-Unis, Sainte-Lucie, Mongolie, Cap-Vert, Finlande, Zambie, Bahamas, Indonésie, Brunei, Saint-Kitts-et-Nevis, Nauru, Suriname, Antigua-et-Barbuda, France, Micronésie
+[2024-11-01 14:46:19] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:46:19] Pays restant à deviner apres suppression des exclus: Serbie, Eswatini, Syrie, Bosnie-Herzégovine, Soudan, États-Unis, Sainte-Lucie, Mongolie, Cap-Vert, Finlande, Zambie, Bahamas, Indonésie, Brunei, Saint-Kitts-et-Nevis, Nauru, Suriname, Antigua-et-Barbuda, France, Micronésie
+[2024-11-01 14:46:19] Pay sélectionné au hasard: Serbie
+[2024-11-01 14:47:15] ******** nouveaux pays **********
+[2024-11-01 14:47:15] Pays: France, Capitale FR: paris, Capitale EN: paris
+[2024-11-01 14:47:15] Pays: Micronésie, Capitale FR: palikir, Capitale EN: palikir
+[2024-11-01 14:47:15] Pays: Nicaragua, Capitale FR: managua, Capitale EN: managua
+[2024-11-01 14:47:15] Pays: République centrafricaine, Capitale FR: bangui, Capitale EN: bangui
+[2024-11-01 14:47:15] Pays: Afrique du Sud, Capitale FR: prétoria, Capitale EN: pretoria
+[2024-11-01 14:47:15] Pays: Nauru, Capitale FR: yaren, Capitale EN: yaren
+[2024-11-01 14:47:15] Pays: Lettonie, Capitale FR: riga, Capitale EN: riga
+[2024-11-01 14:47:15] Pays: Mauritanie, Capitale FR: nouakchott, Capitale EN: nouakchott
+[2024-11-01 14:47:15] Pays: Croatie, Capitale FR: zagreb, Capitale EN: zagreb
+[2024-11-01 14:47:15] Pays: Tanzanie, Capitale FR: dodoma, Capitale EN: dodoma
+[2024-11-01 14:47:15] Pays: Maroc, Capitale FR: rabat, Capitale EN: rabat
+[2024-11-01 14:47:15] Pays: Roumanie, Capitale FR: bucarest, Capitale EN: bucharest
+[2024-11-01 14:47:15] Pays: Jordanie, Capitale FR: amman, Capitale EN: amman
+[2024-11-01 14:47:15] Pays: Erythrée, Capitale FR: asmara, Capitale EN: asmara
+[2024-11-01 14:47:15] Pays: Turquie, Capitale FR: ankara, Capitale EN: ankara
+[2024-11-01 14:47:15] Pays: Tunisie, Capitale FR: tunis, Capitale EN: tunis
+[2024-11-01 14:47:15] Pays: Bangladesh, Capitale FR: dacca, Capitale EN: dhaka
+[2024-11-01 14:47:15] Pays: Italie, Capitale FR: rome, Capitale EN: rome
+[2024-11-01 14:47:15] Pays: République dominicaine, Capitale FR: saint-domingue, Capitale EN: santo domingo
+[2024-11-01 14:47:15] Pays: États-Unis, Capitale FR: washington, Capitale EN: washington
+[2024-11-01 14:47:15] ********************************
+[2024-11-01 14:47:15] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:15] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:47:15] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:15] Pay sélectionné au hasard: Erythrée
+[2024-11-01 14:47:18] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:18] Pays Exclu au debut de GetRandomCountry: Erythrée
+[2024-11-01 14:47:18] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:18] Pay sélectionné au hasard: Lettonie
+[2024-11-01 14:47:20] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:20] Pays Exclu au debut de GetRandomCountry: Erythrée
+[2024-11-01 14:47:20] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:20] Pay sélectionné au hasard: Afrique du Sud
+[2024-11-01 14:47:24] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:24] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud
+[2024-11-01 14:47:24] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:24] Pay sélectionné au hasard: Micronésie
+[2024-11-01 14:47:28] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:28] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud
+[2024-11-01 14:47:28] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:28] Pay sélectionné au hasard: Mauritanie
+[2024-11-01 14:47:32] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:32] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie
+[2024-11-01 14:47:32] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:32] Pay sélectionné au hasard: États-Unis
+[2024-11-01 14:47:39] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:39] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis
+[2024-11-01 14:47:39] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine
+[2024-11-01 14:47:39] Pay sélectionné au hasard: Tanzanie
+[2024-11-01 14:47:42] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:42] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie
+[2024-11-01 14:47:42] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine
+[2024-11-01 14:47:42] Pay sélectionné au hasard: Bangladesh
+[2024-11-01 14:47:47] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:47] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie
+[2024-11-01 14:47:47] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Bangladesh, Italie, République dominicaine
+[2024-11-01 14:47:47] Pay sélectionné au hasard: Bangladesh
+[2024-11-01 14:47:52] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:52] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh
+[2024-11-01 14:47:52] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Maroc, Roumanie, Jordanie, Turquie, Tunisie, Italie, République dominicaine
+[2024-11-01 14:47:52] Pay sélectionné au hasard: Tunisie
+[2024-11-01 14:47:54] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:54] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie
+[2024-11-01 14:47:54] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Maroc, Roumanie, Jordanie, Turquie, Italie, République dominicaine
+[2024-11-01 14:47:54] Pay sélectionné au hasard: Jordanie
+[2024-11-01 14:47:59] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:47:59] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie
+[2024-11-01 14:47:59] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Maroc, Roumanie, Jordanie, Turquie, Italie, République dominicaine
+[2024-11-01 14:47:59] Pay sélectionné au hasard: Nauru
+[2024-11-01 14:48:03] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:03] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie
+[2024-11-01 14:48:03] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Maroc, Roumanie, Jordanie, Turquie, Italie, République dominicaine
+[2024-11-01 14:48:03] Pay sélectionné au hasard: Maroc
+[2024-11-01 14:48:07] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:07] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc
+[2024-11-01 14:48:07] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Roumanie, Jordanie, Turquie, Italie, République dominicaine
+[2024-11-01 14:48:07] Pay sélectionné au hasard: Turquie
+[2024-11-01 14:48:17] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:17] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie
+[2024-11-01 14:48:17] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Roumanie, Jordanie, Italie, République dominicaine
+[2024-11-01 14:48:17] Pay sélectionné au hasard: Italie
+[2024-11-01 14:48:20] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:20] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie
+[2024-11-01 14:48:20] Pays restant à deviner apres suppression des exclus: France, Micronésie, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Roumanie, Jordanie, République dominicaine
+[2024-11-01 14:48:20] Pay sélectionné au hasard: Micronésie
+[2024-11-01 14:48:23] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:23] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie
+[2024-11-01 14:48:23] Pays restant à deviner apres suppression des exclus: France, Nicaragua, République centrafricaine, Nauru, Lettonie, Croatie, Roumanie, Jordanie, République dominicaine
+[2024-11-01 14:48:23] Pay sélectionné au hasard: Nicaragua
+[2024-11-01 14:48:26] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:26] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua
+[2024-11-01 14:48:26] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Nauru, Lettonie, Croatie, Roumanie, Jordanie, République dominicaine
+[2024-11-01 14:48:26] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:48:34] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:34] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua
+[2024-11-01 14:48:34] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Nauru, Lettonie, Croatie, Roumanie, Jordanie, République dominicaine
+[2024-11-01 14:48:34] Pay sélectionné au hasard: Roumanie
+[2024-11-01 14:48:38] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:38] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie
+[2024-11-01 14:48:38] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Nauru, Lettonie, Croatie, Jordanie, République dominicaine
+[2024-11-01 14:48:38] Pay sélectionné au hasard: Nauru
+[2024-11-01 14:48:50] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:50] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru
+[2024-11-01 14:48:50] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Lettonie, Croatie, Jordanie, République dominicaine
+[2024-11-01 14:48:50] Pay sélectionné au hasard: Lettonie
+[2024-11-01 14:48:54] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:54] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie
+[2024-11-01 14:48:54] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Croatie, Jordanie, République dominicaine
+[2024-11-01 14:48:54] Pay sélectionné au hasard: République dominicaine
+[2024-11-01 14:48:58] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:48:58] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie
+[2024-11-01 14:48:58] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Croatie, Jordanie, République dominicaine
+[2024-11-01 14:48:58] Pay sélectionné au hasard: République dominicaine
+[2024-11-01 14:49:08] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:49:08] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie, République dominicaine
+[2024-11-01 14:49:08] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Croatie, Jordanie
+[2024-11-01 14:49:08] Pay sélectionné au hasard: Croatie
+[2024-11-01 14:49:11] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:49:11] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie, République dominicaine, Croatie
+[2024-11-01 14:49:11] Pays restant à deviner apres suppression des exclus: France, République centrafricaine, Jordanie
+[2024-11-01 14:49:11] Pay sélectionné au hasard: Jordanie
+[2024-11-01 14:49:14] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:49:14] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie, République dominicaine, Croatie, Jordanie
+[2024-11-01 14:49:14] Pays restant à deviner apres suppression des exclus: France, République centrafricaine
+[2024-11-01 14:49:14] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:49:19] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:49:19] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie, République dominicaine, Croatie, Jordanie, République centrafricaine
+[2024-11-01 14:49:19] Pays restant à deviner apres suppression des exclus: France
+[2024-11-01 14:49:19] Pay sélectionné au hasard: France
+[2024-11-01 14:49:22] Pays disponible au debut de GetRandomCountry: France, Micronésie, Nicaragua, République centrafricaine, Afrique du Sud, Nauru, Lettonie, Mauritanie, Croatie, Tanzanie, Maroc, Roumanie, Jordanie, Erythrée, Turquie, Tunisie, Bangladesh, Italie, République dominicaine, États-Unis
+[2024-11-01 14:49:22] Pays Exclu au debut de GetRandomCountry: Erythrée, Afrique du Sud, Mauritanie, États-Unis, Tanzanie, Bangladesh, Tunisie, Maroc, Turquie, Italie, Micronésie, Nicaragua, Roumanie, Nauru, Lettonie, République dominicaine, Croatie, Jordanie, République centrafricaine, France
+[2024-11-01 14:49:22] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:49:22] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:49:22] ******** nouveaux pays **********
+[2024-11-01 14:49:22] Pays: Tuvalu, Capitale FR: funafuti, Capitale EN: funafuti
+[2024-11-01 14:49:22] Pays: Angola, Capitale FR: luanda, Capitale EN: luanda
+[2024-11-01 14:49:22] Pays: Liban, Capitale FR: beyrouth, Capitale EN: beirut
+[2024-11-01 14:49:22] Pays: Sierra Leone, Capitale FR: freetown, Capitale EN: freetown
+[2024-11-01 14:49:22] Pays: Égypte, Capitale FR: le caire, Capitale EN: cairo
+[2024-11-01 14:49:22] Pays: Afrique du Sud, Capitale FR: prétoria, Capitale EN: pretoria
+[2024-11-01 14:49:22] Pays: Madagascar, Capitale FR: antananarivo, Capitale EN: antananarivo
+[2024-11-01 14:49:22] Pays: Vietnam, Capitale FR: hanoï, Capitale EN: hanoi
+[2024-11-01 14:49:22] Pays: Somalie, Capitale FR: mogadiscio, Capitale EN: mogadishu
+[2024-11-01 14:49:22] Pays: Danemark, Capitale FR: copenhague, Capitale EN: copenhagen
+[2024-11-01 14:49:22] Pays: Pakistan, Capitale FR: islamabad, Capitale EN: islamabad
+[2024-11-01 14:49:22] Pays: Suriname, Capitale FR: paramaribo, Capitale EN: paramaribo
+[2024-11-01 14:49:22] Pays: Thaïlande, Capitale FR: bangkok, Capitale EN: bangkok
+[2024-11-01 14:49:22] Pays: Qatar, Capitale FR: doha, Capitale EN: doha
+[2024-11-01 14:49:22] Pays: Argentine, Capitale FR: buenos aires, Capitale EN: buenos aires
+[2024-11-01 14:49:22] Pays: Roumanie, Capitale FR: bucarest, Capitale EN: bucharest
+[2024-11-01 14:49:22] Pays: Bangladesh, Capitale FR: dacca, Capitale EN: dhaka
+[2024-11-01 14:49:22] Pays: République démocratique du Congo, Capitale FR: kinshasa, Capitale EN: kinshasa
+[2024-11-01 14:49:22] Pays: Kiribati, Capitale FR: tarawa, Capitale EN: tarawa
+[2024-11-01 14:49:22] Pays: Irak, Capitale FR: bagdad, Capitale EN: baghdad
+[2024-11-01 14:49:22] ********************************
+[2024-11-01 14:49:22] Pays disponible au debut de GetRandomCountry: Tuvalu, Angola, Liban, Sierra Leone, Égypte, Afrique du Sud, Madagascar, Vietnam, Somalie, Danemark, Pakistan, Suriname, Thaïlande, Qatar, Argentine, Roumanie, Bangladesh, République démocratique du Congo, Kiribati, Irak
+[2024-11-01 14:49:22] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:49:22] Pays restant à deviner apres suppression des exclus: Tuvalu, Angola, Liban, Sierra Leone, Égypte, Afrique du Sud, Madagascar, Vietnam, Somalie, Danemark, Pakistan, Suriname, Thaïlande, Qatar, Argentine, Roumanie, Bangladesh, République démocratique du Congo, Kiribati, Irak
+[2024-11-01 14:49:22] Pay sélectionné au hasard: Égypte
+[2024-11-01 14:49:26] Pays disponible au debut de GetRandomCountry: Tuvalu, Angola, Liban, Sierra Leone, Égypte, Afrique du Sud, Madagascar, Vietnam, Somalie, Danemark, Pakistan, Suriname, Thaïlande, Qatar, Argentine, Roumanie, Bangladesh, République démocratique du Congo, Kiribati, Irak
+[2024-11-01 14:49:26] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:49:26] Pays restant à deviner apres suppression des exclus: Tuvalu, Angola, Liban, Sierra Leone, Égypte, Afrique du Sud, Madagascar, Vietnam, Somalie, Danemark, Pakistan, Suriname, Thaïlande, Qatar, Argentine, Roumanie, Bangladesh, République démocratique du Congo, Kiribati, Irak
+[2024-11-01 14:49:26] Pay sélectionné au hasard: Madagascar
+[2024-11-01 14:53:14] Pays disponible au debut de GetRandomCountry: Tuvalu, Angola, Liban, Sierra Leone, Égypte, Afrique du Sud, Madagascar, Vietnam, Somalie, Danemark, Pakistan, Suriname, Thaïlande, Qatar, Argentine, Roumanie, Bangladesh, République démocratique du Congo, Kiribati, Irak
+[2024-11-01 14:53:14] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:53:14] Pays restant à deviner apres suppression des exclus: Tuvalu, Angola, Liban, Sierra Leone, Égypte, Afrique du Sud, Madagascar, Vietnam, Somalie, Danemark, Pakistan, Suriname, Thaïlande, Qatar, Argentine, Roumanie, Bangladesh, République démocratique du Congo, Kiribati, Irak
+[2024-11-01 14:53:14] Pay sélectionné au hasard: Thaïlande
+[2024-11-01 14:53:22] ******** nouveaux pays **********
+[2024-11-01 14:53:22] Pays: Brésil, Capitale FR: brasilia, Capitale EN: brasilia
+[2024-11-01 14:53:22] Pays: Argentine, Capitale FR: buenos aires, Capitale EN: buenos aires
+[2024-11-01 14:53:22] Pays: Malte, Capitale FR: la valette, Capitale EN: valletta
+[2024-11-01 14:53:22] Pays: Soudan du Sud, Capitale FR: djouba, Capitale EN: juba
+[2024-11-01 14:53:22] Pays: Malawi, Capitale FR: lilongwe, Capitale EN: lilongwe
+[2024-11-01 14:53:22] Pays: Liechtenstein, Capitale FR: vaduz, Capitale EN: vaduz
+[2024-11-01 14:53:22] Pays: Madagascar, Capitale FR: antananarivo, Capitale EN: antananarivo
+[2024-11-01 14:53:22] Pays: Japon, Capitale FR: tokyo, Capitale EN: tokyo
+[2024-11-01 14:53:22] Pays: Népal, Capitale FR: katmandou, Capitale EN: kathmandu
+[2024-11-01 14:53:22] Pays: Nicaragua, Capitale FR: managua, Capitale EN: managua
+[2024-11-01 14:53:22] Pays: Liberia, Capitale FR: monrovia, Capitale EN: monrovia
+[2024-11-01 14:53:22] Pays: Philippines, Capitale FR: manille, Capitale EN: manila
+[2024-11-01 14:53:22] Pays: El Salvador, Capitale FR: san salvador, Capitale EN: san salvador
+[2024-11-01 14:53:22] Pays: Mongolie, Capitale FR: oulane-bator, Capitale EN: ulaanbaatar
+[2024-11-01 14:53:22] Pays: Ukraine, Capitale FR: kiev, Capitale EN: kyiv
+[2024-11-01 14:53:22] Pays: Seychelles, Capitale FR: victoria, Capitale EN: victoria
+[2024-11-01 14:53:22] Pays: Salomon, Capitale FR: honiara, Capitale EN: honiara
+[2024-11-01 14:53:22] Pays: Djibouti, Capitale FR: djibouti, Capitale EN: djibouti
+[2024-11-01 14:53:22] Pays: Ghana, Capitale FR: accra, Capitale EN: accra
+[2024-11-01 14:53:22] Pays: République centrafricaine, Capitale FR: bangui, Capitale EN: bangui
+[2024-11-01 14:53:22] ********************************
+[2024-11-01 14:53:22] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:22] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:53:22] Pays restant à deviner apres suppression des exclus: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:22] Pay sélectionné au hasard: République centrafricaine
+[2024-11-01 14:53:25] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:25] Pays Exclu au debut de GetRandomCountry: République centrafricaine
+[2024-11-01 14:53:25] Pays restant à deviner apres suppression des exclus: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana
+[2024-11-01 14:53:25] Pay sélectionné au hasard: Madagascar
+[2024-11-01 14:53:32] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:32] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar
+[2024-11-01 14:53:32] Pays restant à deviner apres suppression des exclus: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana
+[2024-11-01 14:53:32] Pay sélectionné au hasard: Japon
+[2024-11-01 14:53:36] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:36] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon
+[2024-11-01 14:53:36] Pays restant à deviner apres suppression des exclus: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana
+[2024-11-01 14:53:36] Pay sélectionné au hasard: Nicaragua
+[2024-11-01 14:53:38] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:38] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua
+[2024-11-01 14:53:38] Pays restant à deviner apres suppression des exclus: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana
+[2024-11-01 14:53:38] Pay sélectionné au hasard: Argentine
+[2024-11-01 14:53:45] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:45] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine
+[2024-11-01 14:53:45] Pays restant à deviner apres suppression des exclus: Brésil, Malte, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana
+[2024-11-01 14:53:45] Pay sélectionné au hasard: Philippines
+[2024-11-01 14:53:47] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:47] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines
+[2024-11-01 14:53:47] Pays restant à deviner apres suppression des exclus: Brésil, Malte, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana
+[2024-11-01 14:53:47] Pay sélectionné au hasard: Ghana
+[2024-11-01 14:53:50] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:50] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana
+[2024-11-01 14:53:50] Pays restant à deviner apres suppression des exclus: Brésil, Malte, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti
+[2024-11-01 14:53:50] Pay sélectionné au hasard: Mongolie
+[2024-11-01 14:53:53] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:53] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie
+[2024-11-01 14:53:53] Pays restant à deviner apres suppression des exclus: Brésil, Malte, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, El Salvador, Ukraine, Seychelles, Salomon, Djibouti
+[2024-11-01 14:53:53] Pay sélectionné au hasard: Malte
+[2024-11-01 14:53:56] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:56] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte
+[2024-11-01 14:53:56] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, El Salvador, Ukraine, Seychelles, Salomon, Djibouti
+[2024-11-01 14:53:56] Pay sélectionné au hasard: Seychelles
+[2024-11-01 14:53:59] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:53:59] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles
+[2024-11-01 14:53:59] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Malawi, Liechtenstein, Népal, Liberia, El Salvador, Ukraine, Salomon, Djibouti
+[2024-11-01 14:53:59] Pay sélectionné au hasard: Malawi
+[2024-11-01 14:54:01] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:01] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi
+[2024-11-01 14:54:01] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Liechtenstein, Népal, Liberia, El Salvador, Ukraine, Salomon, Djibouti
+[2024-11-01 14:54:01] Pay sélectionné au hasard: El Salvador
+[2024-11-01 14:54:05] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:05] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador
+[2024-11-01 14:54:05] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Liechtenstein, Népal, Liberia, Ukraine, Salomon, Djibouti
+[2024-11-01 14:54:05] Pay sélectionné au hasard: Liechtenstein
+[2024-11-01 14:54:07] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:07] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein
+[2024-11-01 14:54:07] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Népal, Liberia, Ukraine, Salomon, Djibouti
+[2024-11-01 14:54:07] Pay sélectionné au hasard: Djibouti
+[2024-11-01 14:54:10] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:10] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti
+[2024-11-01 14:54:10] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Népal, Liberia, Ukraine, Salomon
+[2024-11-01 14:54:10] Pay sélectionné au hasard: Népal
+[2024-11-01 14:54:14] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:14] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal
+[2024-11-01 14:54:14] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Liberia, Ukraine, Salomon
+[2024-11-01 14:54:14] Pay sélectionné au hasard: Salomon
+[2024-11-01 14:54:19] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:19] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal
+[2024-11-01 14:54:19] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Liberia, Ukraine, Salomon
+[2024-11-01 14:54:19] Pay sélectionné au hasard: Ukraine
+[2024-11-01 14:54:23] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:23] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine
+[2024-11-01 14:54:23] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Liberia, Salomon
+[2024-11-01 14:54:23] Pay sélectionné au hasard: Liberia
+[2024-11-01 14:54:36] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:36] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine
+[2024-11-01 14:54:36] Pays restant à deviner apres suppression des exclus: Brésil, Soudan du Sud, Liberia, Salomon
+[2024-11-01 14:54:36] Pay sélectionné au hasard: Brésil
+[2024-11-01 14:54:41] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:41] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine, Brésil
+[2024-11-01 14:54:41] Pays restant à deviner apres suppression des exclus: Soudan du Sud, Liberia, Salomon
+[2024-11-01 14:54:41] Pay sélectionné au hasard: Salomon
+[2024-11-01 14:54:47] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:47] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine, Brésil, Salomon
+[2024-11-01 14:54:47] Pays restant à deviner apres suppression des exclus: Soudan du Sud, Liberia
+[2024-11-01 14:54:47] Pay sélectionné au hasard: Soudan du Sud
+[2024-11-01 14:54:50] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:50] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine, Brésil, Salomon
+[2024-11-01 14:54:50] Pays restant à deviner apres suppression des exclus: Soudan du Sud, Liberia
+[2024-11-01 14:54:50] Pay sélectionné au hasard: Soudan du Sud
+[2024-11-01 14:54:55] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:54:55] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine, Brésil, Salomon, Soudan du Sud
+[2024-11-01 14:54:55] Pays restant à deviner apres suppression des exclus: Liberia
+[2024-11-01 14:54:55] Pay sélectionné au hasard: Liberia
+[2024-11-01 14:55:02] Pays disponible au debut de GetRandomCountry: Brésil, Argentine, Malte, Soudan du Sud, Malawi, Liechtenstein, Madagascar, Japon, Népal, Nicaragua, Liberia, Philippines, El Salvador, Mongolie, Ukraine, Seychelles, Salomon, Djibouti, Ghana, République centrafricaine
+[2024-11-01 14:55:02] Pays Exclu au debut de GetRandomCountry: République centrafricaine, Madagascar, Japon, Nicaragua, Argentine, Philippines, Ghana, Mongolie, Malte, Seychelles, Malawi, El Salvador, Liechtenstein, Djibouti, Népal, Ukraine, Brésil, Salomon, Soudan du Sud, Liberia
+[2024-11-01 14:55:02] Pays restant à deviner apres suppression des exclus: 
+[2024-11-01 14:55:02] La liste des pays à trouver est vide, renvoi NULL
+[2024-11-01 14:55:02] ******** nouveaux pays **********
+[2024-11-01 14:55:02] Pays: Micronésie, Capitale FR: palikir, Capitale EN: palikir
+[2024-11-01 14:55:02] Pays: Liechtenstein, Capitale FR: vaduz, Capitale EN: vaduz
+[2024-11-01 14:55:02] Pays: Palaos, Capitale FR: ngerulmud, Capitale EN: ngerulmud
+[2024-11-01 14:55:02] Pays: Mauritanie, Capitale FR: nouakchott, Capitale EN: nouakchott
+[2024-11-01 14:55:02] Pays: Soudan du Sud, Capitale FR: djouba, Capitale EN: juba
+[2024-11-01 14:55:02] Pays: République dominicaine, Capitale FR: saint-domingue, Capitale EN: santo domingo
+[2024-11-01 14:55:02] Pays: Singapour, Capitale FR: singapour, Capitale EN: singapore
+[2024-11-01 14:55:02] Pays: Thaïlande, Capitale FR: bangkok, Capitale EN: bangkok
+[2024-11-01 14:55:02] Pays: Grenade, Capitale FR: saint-georges, Capitale EN: saint george's
+[2024-11-01 14:55:02] Pays: Ouganda, Capitale FR: kampala, Capitale EN: kampala
+[2024-11-01 14:55:02] Pays: Portugal, Capitale FR: lisbonne, Capitale EN: lisbon
+[2024-11-01 14:55:02] Pays: Finlande, Capitale FR: helsinki, Capitale EN: helsinki
+[2024-11-01 14:55:02] Pays: Libye, Capitale FR: tripoli, Capitale EN: tripoli
+[2024-11-01 14:55:02] Pays: Italie, Capitale FR: rome, Capitale EN: rome
+[2024-11-01 14:55:02] Pays: Vatican, Capitale FR: vatican, Capitale EN: vatican city
+[2024-11-01 14:55:02] Pays: Slovénie, Capitale FR: ljubljana, Capitale EN: ljubljana
+[2024-11-01 14:55:02] Pays: Argentine, Capitale FR: buenos aires, Capitale EN: buenos aires
+[2024-11-01 14:55:02] Pays: Afrique du Sud, Capitale FR: prétoria, Capitale EN: pretoria
+[2024-11-01 14:55:02] Pays: El Salvador, Capitale FR: san salvador, Capitale EN: san salvador
+[2024-11-01 14:55:02] Pays: Guyana, Capitale FR: georgetown, Capitale EN: georgetown
+[2024-11-01 14:55:02] ********************************
+[2024-11-01 14:55:02] Pays disponible au debut de GetRandomCountry: Micronésie, Liechtenstein, Palaos, Mauritanie, Soudan du Sud, République dominicaine, Singapour, Thaïlande, Grenade, Ouganda, Portugal, Finlande, Libye, Italie, Vatican, Slovénie, Argentine, Afrique du Sud, El Salvador, Guyana
+[2024-11-01 14:55:02] Pays Exclu au debut de GetRandomCountry: 
+[2024-11-01 14:55:02] Pays restant à deviner apres suppression des exclus: Micronésie, Liechtenstein, Palaos, Mauritanie, Soudan du Sud, République dominicaine, Singapour, Thaïlande, Grenade, Ouganda, Portugal, Finlande, Libye, Italie, Vatican, Slovénie, Argentine, Afrique du Sud, El Salvador, Guyana
+[2024-11-01 14:55:02] Pay sélectionné au hasard: Thaïlande
+[2024-11-01 14:55:07] Pays disponible au debut de GetRandomCountry: Micronésie, Liechtenstein, Palaos, Mauritanie, Soudan du Sud, République dominicaine, Singapour, Thaïlande, Grenade, Ouganda, Portugal, Finlande, Libye, Italie, Vatican, Slovénie, Argentine, Afrique du Sud, El Salvador, Guyana
+[2024-11-01 14:55:07] Pays Exclu au debut de GetRandomCountry: Thaïlande
+[2024-11-01 14:55:07] Pays restant à deviner apres suppression des exclus: Micronésie, Liechtenstein, Palaos, Mauritanie, Soudan du Sud, République dominicaine, Singapour, Grenade, Ouganda, Portugal, Finlande, Libye, Italie, Vatican, Slovénie, Argentine, Afrique du Sud, El Salvador, Guyana
+[2024-11-01 14:55:07] Pay sélectionné au hasard: République dominicaine

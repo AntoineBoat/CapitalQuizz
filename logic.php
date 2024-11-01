@@ -1,5 +1,5 @@
 <?php
-function getRandomCountry($excludedCountries = []) {
+function initiateCountries() {
     // Liste des pays et de leurs capitales
     $countries = 
 [
@@ -193,29 +193,65 @@ function getRandomCountry($excludedCountries = []) {
 "Tuvalu" => ["capital_fr" => "funafuti", "capital_en" => "funafuti", "gps" => ["latitude" => -8.5243, "longitude" => 179.1942]],
 "Vanuatu" => ["capital_fr" => "port-vila", "capital_en" => "port vila", "gps" => ["latitude" => -17.7333, "longitude" => 168.3273]]
 ];
+//mélanger les pays et choisir les X premiers
+$countryKeys = array_keys($countries);
+shuffle($countryKeys);
 
+// Créer un tableau mélangé
+$pays_melange = [];
+foreach ($countryKeys as $key) {
+    $pays_melange[$key] = $countries[$key];
+}
+$totalCountryToGuess= 20;
+$PickedCountries = array_slice($pays_melange, 0, $totalCountryToGuess,true);//choisir les X premiers pays
+logMessage("******** nouveaux pays **********", "debug.txt");
+foreach ($PickedCountries as $country => $details) {//afficher les pays choisis avec leurs capitales
+    logMessage("Pays: $country, Capitale FR: " . $details['capital_fr'] . ", Capitale EN: " . $details['capital_en'], "debug.txt");
+}
+logMessage("********************************", "debug.txt");
+return $PickedCountries;
+
+}
+
+function getRandomCountry($excludedCountries = []) {
+    $PickedCountriesWithDetails = $_SESSION['pickedCountries'];
     
-    // Remove excluded countries
+    $PickedCountries = array_keys($PickedCountriesWithDetails);
+    //$excludedCountries = array_keys($excludedCountries);
+    logMessage("Pays disponible au debut de GetRandomCountry: " . implode(", ", $PickedCountries), "debug.txt");
+    logMessage("Pays Exclu au debut de GetRandomCountry: " . implode(", ", $excludedCountries), "debug.txt");
+    
+    // Remove countries alredey guessed
     if (!empty($excludedCountries)) {
         foreach ($excludedCountries as $excludedCountry) {
-            unset($countries[$excludedCountry]);
-        }
-    }
+            if (($key = array_search($excludedCountry, $PickedCountries)) !== false) {
+                unset($PickedCountries[$key]);
+            }
 
-    // Check if all countries are excluded
-    if (empty($countries)) {
+            //unset($PickedCountries[$excludedCountry]);
+        }        
+    }
+    logMessage("Pays restant à deviner apres suppression des exclus: " . implode(", ", $PickedCountries), "debug.txt");
+
+    // Check if all countries have already been guessed
+    if (empty($PickedCountries)) {
+        logMessage("La liste des pays à trouver est vide, renvoi NULL", "debug.txt");
         return null;
     }
 
     // Select a random country from the remaining list
-    $country = array_rand($countries);
+    $countryNumber = array_rand($PickedCountries);
+    $countryName = $PickedCountries[$countryNumber];
+    //logMessage("Contenu de PickedCountries: " . print_r($PickedCountries, true), "debug.txt");
+    logMessage("Pay sélectionné au hasard: $countryName", "debug.txt");
     // Return the selected country with the capitals and the number of countries left
-    return [$country => $countries[$country], "left" => count($countries)];
+    
+    return $countryName;
 }
 
 
 // Vérifier la réponse de l'utilisateur
-function checkCapital($userInput, $correctCapitals, $desiredPercent = 70) {
+function checkCapital($userInput,$correctCapitalFr,$correctCapitalEn, $desiredPercent = 70) {
     $userInput = trim($userInput);
     $userInput = strtolower($userInput);
 
@@ -223,11 +259,11 @@ function checkCapital($userInput, $correctCapitals, $desiredPercent = 70) {
     $maxPercent = 0;
 
     // Vérifier la similarité avec les deux versions des capitales
-    $capitalFr = $correctCapitals['capital_fr'];
-    $capitalEn = $correctCapitals['capital_en'];
-
-    similar_text($userInput, $capitalFr, $percentFr);
-    similar_text($userInput, $capitalEn, $percentEn);
+    //$capitalFr = $_SESSION['correctCapitalFr'];
+    //$capitalEn = $_SESSION['correctCapitalEn'];
+    
+    similar_text($userInput, $correctCapitalFr, $percentFr);
+    similar_text($userInput, $correctCapitalEn, $percentEn);
     $percentFr = round($percentFr, 1);
     $percentEn = round($percentEn, 1);
     if ($percentFr > $maxPercent) {
@@ -243,7 +279,7 @@ function checkCapital($userInput, $correctCapitals, $desiredPercent = 70) {
         $message = "Correct !";
     } else {
         // Mauvaise réponse
-        $message = "$userInput est une mauvaise réponse ($maxPercent % uniquement de la bonne réponse).<br>La bonne réponse est '$capitalFr' ou '$capitalEn'"; 
+        $message = "$userInput est une mauvaise réponse ($maxPercent % uniquement de la bonne réponse).<br>La bonne réponse est '$correctCapitalFr' ou '$correctCapitalEn'"; 
     }
     return $message;
 }
@@ -253,11 +289,11 @@ function logMessage($message, $logFilePath = __DIR__ . '/logs.txt') {
     $date = date('Y-m-d H:i:s');
     $logEntry = "[$date] $message" . PHP_EOL;
 
-    // Écrire le message dans le fichier de log
+    // Écrire le message dans le fichier de loga
     file_put_contents($logFilePath, $logEntry, FILE_APPEND);
 }
 
-function initializeLists() {
+function initializeSessionVariables() {
     if (!isset($_SESSION['excludedCountries'])) {//
         $_SESSION['excludedCountries'] = [];
     }
@@ -265,6 +301,24 @@ function initializeLists() {
     if (!isset($_SESSION['wrongCountries'])) {
         $_SESSION['wrongCountries'] = [];
     }
-}
+
+    if (!isset($_SESSION['CountriesToGuess'])) {
+        $_SESSION['CountriesToGuess'] = 20;
+    }
+
+    if (!isset($_SESSION['errorCount'])) {
+        $_SESSION['errorCount'] = 0;
+    }
+    }
+    if (!isset($_SESSION['excludedCount'])) {
+        $_SESSION['excludedCount'] = 0;
+    }
+
+    if (!isset($_SESSION['countriesLeft'])) {
+        $_SESSION['countriesLeft'] = 0;
+    }
+    if (!isset($_SESSION['pickedCountries'])) {
+        $_SESSION['pickedCountries'] = initiateCountries();
+    }
 
 ?>

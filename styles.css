@@ -3,11 +3,9 @@
 body {
     background-color: #f0f2f5; /* Couleur de fond de Facebook */
     font-family: Arial, sans-serif;/* Police de caractères */
-    display: flex; /* Utiliser le modèle de boîte flex */
     justify-content: center; /* Centrer horizontalement */
     align-items: flex-start; /* Aligner en haut */
-    padding: 20px; /* Ajouter un peu d'espace autour */
-    flex-direction: column; /* Empile les éléments verticalement */
+    
 }
 
 h1 {
@@ -20,7 +18,7 @@ h1 {
     border: 1px solid #dcdcdc;
     padding: 10px;
     border-radius: 5px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .lists-container { /* Conteneur des listes */
