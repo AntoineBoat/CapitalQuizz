@@ -2434,3 +2434,33 @@ Formulaire soumis pour le pays Belgique
 [2024-11-01 00:04:09] Message de réponse: Correct !
 [2024-11-01 00:04:09] Capital correctement trouvé, pays exclu: République démocratique du Congo
 [2024-11-01 00:04:09] Prochain pays: Turkménistan, capitales attendus : achgabat ou ashgabat
+[2024-11-01 00:06:04] Prochain pays: République dominicaine, capitales attendus : saint-domingue ou santo domingo
+[2024-11-01 00:06:14] Prochain pays: Liban, capitales attendus : beyrouth ou beirut
+[2024-11-01 00:06:17] ********** Nouvel appel *******
+[2024-11-01 00:06:17] Formulaire soumis pour le pays Liban
+[2024-11-01 00:06:17] Entrée utilisateur: azeaze
+[2024-11-01 00:06:17] Message de réponse: azeaze est une mauvaise réponse (16.7 % uniquement de la bonne réponse).<br>La bonne réponse est 'beyrouth' ou 'beirut'
+[2024-11-01 00:06:17] Mauvaise réponse, le pays reste dans la liste: Liban
+[2024-11-01 00:06:17] Tableau des mauvaises réponses: Liban
+[2024-11-01 00:06:17] Prochain pays: Pérou, capitales attendus : lima ou lima
+[2024-11-01 00:06:30] Prochain pays: Nauru, capitales attendus : yaren ou yaren
+[2024-11-01 00:06:33] ********** Nouvel appel *******
+[2024-11-01 00:06:33] Formulaire soumis pour le pays Nauru
+[2024-11-01 00:06:33] Entrée utilisateur: zae
+[2024-11-01 00:06:33] Message de réponse: zae est une mauvaise réponse (50 % uniquement de la bonne réponse).<br>La bonne réponse est 'yaren' ou 'yaren'
+[2024-11-01 00:06:33] Mauvaise réponse, le pays reste dans la liste: Nauru
+[2024-11-01 00:06:33] Tableau des mauvaises réponses: Liban, Nauru
+[2024-11-01 00:06:33] Prochain pays: Nigeria, capitales attendus : abuja ou abuja
+[2024-11-01 00:06:35] ********** Nouvel appel *******
+[2024-11-01 00:06:35] Formulaire soumis pour le pays Nigeria
+[2024-11-01 00:06:35] Entrée utilisateur: eaze
+[2024-11-01 00:06:35] Message de réponse: eaze est une mauvaise réponse (22.2 % uniquement de la bonne réponse).<br>La bonne réponse est 'abuja' ou 'abuja'
+[2024-11-01 00:06:35] Mauvaise réponse, le pays reste dans la liste: Nigeria
+[2024-11-01 00:06:35] Tableau des mauvaises réponses: Liban, Nauru, Nigeria
+[2024-11-01 00:06:35] Prochain pays: Madagascar, capitales attendus : antananarivo ou antananarivo
+[2024-11-01 00:06:49] Prochain pays: Gabon, capitales attendus : libreville ou libreville
+[2024-11-01 00:07:01] Prochain pays: Antigua-et-Barbuda, capitales attendus : saint john's ou saint john's
+[2024-11-01 00:07:03] Prochain pays: Nicaragua, capitales attendus : managua ou managua
+[2024-11-01 00:07:28] Prochain pays: République centrafricaine, capitales attendus : bangui ou bangui
+[2024-11-01 00:07:32] Prochain pays: Antigua-et-Barbuda, capitales attendus : saint john's ou saint john's
+[2024-11-01 00:07:43] Prochain pays: Zambie, capitales attendus : lusaka ou lusaka

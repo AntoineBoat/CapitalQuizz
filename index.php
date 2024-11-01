@@ -75,7 +75,7 @@ if (!$countryWithCapital) {// Si il ne reste plus de pays, on a gagné
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <style>
-        #map { height: 250px; width: 1550px;margin-left: auto; }
+        #map { height: 250px; width: 1550px; }
     </style>
     <title>Jeu des capitales</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
